@@ -1,4 +1,5 @@
 import json
+from typing import Dict, List
 import requests
 import utils
 
@@ -10,7 +11,7 @@ def get(url: str) -> json:
     return response.json()
 
 
-def enrich(data: json) -> json:
+def enrich(data: List[Dict]) -> str:
     """
     Add additional keys to the data
     """
@@ -20,7 +21,7 @@ def enrich(data: json) -> json:
     return json.dumps(data, indent=4)
 
 
-def to_file(filename: str, data: json) -> None:
+def to_file(filename: str, data: List) -> None:
     """
     Write the data to a file
     """
