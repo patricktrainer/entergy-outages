@@ -3,90 +3,110 @@
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181375,
-        "customersAffected": 31,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "customersAffected": 32,
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-25T03:52:50.363092"
+        "_loaded_at": "2022-07-25T04:52:43.263619"
     },
     {
         "state": "L",
         "county": "GRANT",
         "customersServed": 1200,
         "customersAffected": 11,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 31.590555555555554,
         "longitude": -92.48346560846561,
-        "_loaded_at": "2022-07-25T03:52:50.363101"
+        "_loaded_at": "2022-07-25T04:52:43.263628"
     },
     {
         "state": "L",
         "county": "JACKSON",
         "customersServed": 8899,
         "customersAffected": 5,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 32.21722972972973,
         "longitude": -92.75439189189188,
-        "_loaded_at": "2022-07-25T03:52:50.363107"
+        "_loaded_at": "2022-07-25T04:52:43.263632"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210231,
         "customersAffected": 10,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-07-25T03:52:50.363112"
+        "_loaded_at": "2022-07-25T04:52:43.263637"
     },
     {
         "state": "L",
-        "county": "LAFOURCHE",
-        "customersServed": 42399,
+        "county": "LIVINGSTON",
+        "customersServed": 23191,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
-        "latitude": 29.609287410926367,
-        "longitude": -90.40995249406176,
-        "_loaded_at": "2022-07-25T03:52:50.363117"
+        "lastUpdatedTime": "2022-07-25T04:52:32",
+        "latitude": 30.404145161290323,
+        "longitude": -90.7923064516129,
+        "_loaded_at": "2022-07-25T04:52:43.263641"
     },
     {
         "state": "L",
         "county": "MADISON",
         "customersServed": 5820,
         "customersAffected": 3,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 32.32744303797468,
         "longitude": -91.32559493670887,
-        "_loaded_at": "2022-07-25T03:52:50.363121"
+        "_loaded_at": "2022-07-25T04:52:43.263646"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194095,
-        "customersAffected": 18,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "customersAffected": 17,
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-25T03:52:50.363126"
+        "_loaded_at": "2022-07-25T04:52:43.263650"
     },
     {
         "state": "L",
         "county": "POINTE COUPEE",
         "customersServed": 5080,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 30.789189189189187,
         "longitude": -91.64455598455598,
-        "_loaded_at": "2022-07-25T03:52:50.363131"
+        "_loaded_at": "2022-07-25T04:52:43.263655"
+    },
+    {
+        "state": "L",
+        "county": "ST. JOHN THE BAPTIST",
+        "customersServed": 18887,
+        "customersAffected": 4,
+        "lastUpdatedTime": "2022-07-25T04:52:32",
+        "latitude": 30.092586206896552,
+        "longitude": -90.53577586206896,
+        "_loaded_at": "2022-07-25T04:52:43.263659"
     },
     {
         "state": "L",
         "county": "W. BATON ROUGE",
         "customersServed": 12870,
         "customersAffected": 3,
-        "lastUpdatedTime": "2022-07-25T03:52:32",
+        "lastUpdatedTime": "2022-07-25T04:52:32",
         "latitude": 30.509285714285713,
         "longitude": -91.29169642857143,
-        "_loaded_at": "2022-07-25T03:52:50.363136"
+        "_loaded_at": "2022-07-25T04:52:43.263664"
+    },
+    {
+        "state": "L",
+        "county": "WEBSTER",
+        "customersServed": 11523,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-25T04:52:32",
+        "latitude": 32.75104651162791,
+        "longitude": -93.3486046511628,
+        "_loaded_at": "2022-07-25T04:52:43.263668"
     }
 ]
