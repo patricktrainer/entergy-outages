@@ -4,59 +4,69 @@
         "county": "CALCASIEU",
         "customersServed": 83599,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-26T05:16:32",
+        "lastUpdatedTime": "2022-07-26T05:54:32",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-07-26T05:17:22.941093"
+        "_loaded_at": "2022-07-26T05:55:14.498345"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181375,
-        "customersAffected": 29,
-        "lastUpdatedTime": "2022-07-26T05:16:32",
+        "customersAffected": 30,
+        "lastUpdatedTime": "2022-07-26T05:54:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-26T05:17:22.941103"
+        "_loaded_at": "2022-07-26T05:55:14.498354"
     },
     {
         "state": "L",
         "county": "LA SALLE",
         "customersServed": 5788,
         "customersAffected": 209,
-        "lastUpdatedTime": "2022-07-26T05:16:32",
+        "lastUpdatedTime": "2022-07-26T05:54:32",
         "latitude": 31.61041338582677,
         "longitude": -92.25734251968504,
-        "_loaded_at": "2022-07-26T05:17:22.941108"
+        "_loaded_at": "2022-07-26T05:55:14.498360"
+    },
+    {
+        "state": "L",
+        "county": "LAFAYETTE",
+        "customersServed": 16485,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-26T05:54:32",
+        "latitude": 30.222664359861593,
+        "longitude": -92.08692041522491,
+        "_loaded_at": "2022-07-26T05:55:14.498365"
     },
     {
         "state": "L",
         "county": "LAFOURCHE",
         "customersServed": 42399,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-26T05:16:32",
+        "lastUpdatedTime": "2022-07-26T05:54:32",
         "latitude": 29.609287410926367,
         "longitude": -90.40995249406176,
-        "_loaded_at": "2022-07-26T05:17:22.941112"
+        "_loaded_at": "2022-07-26T05:55:14.498369"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194095,
         "customersAffected": 5,
-        "lastUpdatedTime": "2022-07-26T05:16:32",
+        "lastUpdatedTime": "2022-07-26T05:54:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-26T05:17:22.941117"
+        "_loaded_at": "2022-07-26T05:55:14.498374"
     },
     {
         "state": "L",
         "county": "OTHER",
         "customersServed": 2,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-07-26T05:16:32",
+        "lastUpdatedTime": "2022-07-26T05:54:32",
         "latitude": null,
         "longitude": null,
-        "_loaded_at": "2022-07-26T05:17:22.941121"
+        "_loaded_at": "2022-07-26T05:55:14.498379"
     }
 ]
