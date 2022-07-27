@@ -3,60 +3,70 @@
         "state": "L",
         "county": "BIENVILLE",
         "customersServed": 7352,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-27T08:46:32",
+        "customersAffected": 4,
+        "lastUpdatedTime": "2022-07-27T09:18:32",
         "latitude": 32.30282122905028,
         "longitude": -93.09335195530726,
-        "_loaded_at": "2022-07-27T08:48:12.301151"
+        "_loaded_at": "2022-07-27T09:19:25.308174"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181375,
         "customersAffected": 3,
-        "lastUpdatedTime": "2022-07-27T08:46:32",
+        "lastUpdatedTime": "2022-07-27T09:18:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-27T08:48:12.301159"
+        "_loaded_at": "2022-07-27T09:19:25.308183"
     },
     {
         "state": "L",
         "county": "LAFOURCHE",
         "customersServed": 42399,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-27T08:46:32",
+        "lastUpdatedTime": "2022-07-27T09:18:32",
         "latitude": 29.609287410926367,
         "longitude": -90.40995249406176,
-        "_loaded_at": "2022-07-27T08:48:12.301163"
+        "_loaded_at": "2022-07-27T09:19:25.308189"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194095,
         "customersAffected": 29,
-        "lastUpdatedTime": "2022-07-27T08:46:32",
+        "lastUpdatedTime": "2022-07-27T09:18:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-27T08:48:12.301166"
+        "_loaded_at": "2022-07-27T09:19:25.308193"
     },
     {
         "state": "L",
         "county": "POINTE COUPEE",
         "customersServed": 5080,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-27T08:46:32",
+        "lastUpdatedTime": "2022-07-27T09:18:32",
         "latitude": 30.789189189189187,
         "longitude": -91.64455598455598,
-        "_loaded_at": "2022-07-27T08:48:12.301170"
+        "_loaded_at": "2022-07-27T09:19:25.308198"
     },
     {
         "state": "L",
         "county": "VERMILION",
         "customersServed": 7866,
         "customersAffected": 6,
-        "lastUpdatedTime": "2022-07-27T08:46:32",
+        "lastUpdatedTime": "2022-07-27T09:18:32",
         "latitude": 30.067826086956522,
         "longitude": -92.4074154589372,
-        "_loaded_at": "2022-07-27T08:48:12.301173"
+        "_loaded_at": "2022-07-27T09:19:25.308202"
+    },
+    {
+        "state": "L",
+        "county": "W. BATON ROUGE",
+        "customersServed": 12870,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-27T09:18:32",
+        "latitude": 30.509285714285713,
+        "longitude": -91.29169642857143,
+        "_loaded_at": "2022-07-27T09:19:25.308207"
     }
 ]
