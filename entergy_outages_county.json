@@ -1,102 +1,72 @@
 [
     {
         "state": "L",
-        "county": "ASCENSION",
-        "customersServed": 43542,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
-        "latitude": 30.258093385214007,
-        "longitude": -90.84015564202333,
-        "_loaded_at": "2022-07-28T01:59:17.944789"
-    },
-    {
-        "state": "L",
-        "county": "CALCASIEU",
-        "customersServed": 83599,
+        "county": "ASSUMPTION",
+        "customersServed": 10390,
         "customersAffected": 3,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
-        "latitude": 30.221415384615383,
-        "longitude": -93.57326153846154,
-        "_loaded_at": "2022-07-28T01:59:17.944803"
+        "lastUpdatedTime": "2022-07-28T03:48:32",
+        "latitude": 29.852919254658385,
+        "longitude": -91.12534161490683,
+        "_loaded_at": "2022-07-28T03:48:42.015215"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181375,
-        "customersAffected": 10,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
+        "customersAffected": 8,
+        "lastUpdatedTime": "2022-07-28T03:48:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-28T01:59:17.944811"
+        "_loaded_at": "2022-07-28T03:48:42.015224"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210231,
-        "customersAffected": 50,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
+        "customersAffected": 54,
+        "lastUpdatedTime": "2022-07-28T03:48:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-07-28T01:59:17.944818"
-    },
-    {
-        "state": "L",
-        "county": "LAFOURCHE",
-        "customersServed": 42399,
-        "customersAffected": 21,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
-        "latitude": 29.609287410926367,
-        "longitude": -90.40995249406176,
-        "_loaded_at": "2022-07-28T01:59:17.944825"
+        "_loaded_at": "2022-07-28T03:48:42.015229"
     },
     {
         "state": "L",
         "county": "LIVINGSTON",
         "customersServed": 23191,
-        "customersAffected": 4,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-07-28T03:48:32",
         "latitude": 30.404145161290323,
         "longitude": -90.7923064516129,
-        "_loaded_at": "2022-07-28T01:59:17.944832"
+        "_loaded_at": "2022-07-28T03:48:42.015234"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194095,
-        "customersAffected": 89,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
+        "customersAffected": 8,
+        "lastUpdatedTime": "2022-07-28T03:48:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-28T01:59:17.944840"
+        "_loaded_at": "2022-07-28T03:48:42.015238"
     },
     {
         "state": "L",
-        "county": "OUACHITA",
-        "customersServed": 79648,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
-        "latitude": 32.5634,
-        "longitude": -92.03646666666667,
-        "_loaded_at": "2022-07-28T01:59:17.944847"
+        "county": "OTHER",
+        "customersServed": 1,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-28T03:48:32",
+        "latitude": null,
+        "longitude": null,
+        "_loaded_at": "2022-07-28T03:48:42.015243"
     },
     {
         "state": "L",
         "county": "TANGIPAHOA",
         "customersServed": 63775,
-        "customersAffected": 178,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-07-28T03:48:32",
         "latitude": 30.60185393258427,
         "longitude": -90.36870786516853,
-        "_loaded_at": "2022-07-28T01:59:17.944854"
-    },
-    {
-        "state": "L",
-        "county": "TERREBONNE",
-        "customersServed": 26653,
-        "customersAffected": 6,
-        "lastUpdatedTime": "2022-07-28T01:58:32",
-        "latitude": 29.472579505300352,
-        "longitude": -90.93692579505301,
-        "_loaded_at": "2022-07-28T01:59:17.944861"
+        "_loaded_at": "2022-07-28T03:48:42.015247"
     }
 ]
