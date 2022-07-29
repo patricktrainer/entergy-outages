@@ -1,52 +1,72 @@
 [
     {
         "state": "L",
-        "county": "CALCASIEU",
-        "customersServed": 83599,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-29T07:50:32",
-        "latitude": 30.221415384615383,
-        "longitude": -93.57326153846154,
-        "_loaded_at": "2022-07-29T07:51:50.327919"
-    },
-    {
-        "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181375,
-        "customersAffected": 776,
-        "lastUpdatedTime": "2022-07-29T07:50:32",
+        "customersAffected": 777,
+        "lastUpdatedTime": "2022-07-29T08:24:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-29T07:51:50.327932"
+        "_loaded_at": "2022-07-29T08:25:24.969097"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210231,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-29T07:50:32",
+        "lastUpdatedTime": "2022-07-29T08:24:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-07-29T07:51:50.327939"
+        "_loaded_at": "2022-07-29T08:25:24.969106"
     },
     {
         "state": "L",
         "county": "JEFFERSON DAVIS",
         "customersServed": 11879,
         "customersAffected": 3,
-        "lastUpdatedTime": "2022-07-29T07:50:32",
+        "lastUpdatedTime": "2022-07-29T08:24:32",
         "latitude": 30.266525821596247,
         "longitude": -92.66793427230047,
-        "_loaded_at": "2022-07-29T07:51:50.327946"
+        "_loaded_at": "2022-07-29T08:25:24.969112"
+    },
+    {
+        "state": "L",
+        "county": "LA SALLE",
+        "customersServed": 5788,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-29T08:24:32",
+        "latitude": 31.61041338582677,
+        "longitude": -92.25734251968504,
+        "_loaded_at": "2022-07-29T08:25:24.969116"
+    },
+    {
+        "state": "L",
+        "county": "LAFOURCHE",
+        "customersServed": 42399,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-29T08:24:32",
+        "latitude": 29.609287410926367,
+        "longitude": -90.40995249406176,
+        "_loaded_at": "2022-07-29T08:25:24.969121"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194095,
-        "customersAffected": 241,
-        "lastUpdatedTime": "2022-07-29T07:50:32",
+        "customersAffected": 229,
+        "lastUpdatedTime": "2022-07-29T08:24:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-29T07:51:50.327952"
+        "_loaded_at": "2022-07-29T08:25:24.969126"
+    },
+    {
+        "state": "L",
+        "county": "VERMILION",
+        "customersServed": 7866,
+        "customersAffected": 130,
+        "lastUpdatedTime": "2022-07-29T08:24:32",
+        "latitude": 30.067826086956522,
+        "longitude": -92.4074154589372,
+        "_loaded_at": "2022-07-29T08:25:24.969130"
     }
 ]
