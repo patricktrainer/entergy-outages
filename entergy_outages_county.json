@@ -1,102 +1,62 @@
 [
     {
         "state": "L",
-        "county": "CALDWELL",
-        "customersServed": 6090,
-        "customersAffected": 37,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
-        "latitude": 32.13552,
-        "longitude": -91.95332,
-        "_loaded_at": "2022-07-29T02:10:33.064861"
-    },
-    {
-        "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181375,
-        "customersAffected": 215,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
+        "customersAffected": 166,
+        "lastUpdatedTime": "2022-07-29T03:54:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-29T02:10:33.064871"
+        "_loaded_at": "2022-07-29T03:56:07.482833"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210231,
-        "customersAffected": 17,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
+        "customersAffected": 8,
+        "lastUpdatedTime": "2022-07-29T03:54:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-07-29T02:10:33.064876"
-    },
-    {
-        "state": "L",
-        "county": "LAFAYETTE",
-        "customersServed": 16485,
-        "customersAffected": 54,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
-        "latitude": 30.222664359861593,
-        "longitude": -92.08692041522491,
-        "_loaded_at": "2022-07-29T02:10:33.064881"
+        "_loaded_at": "2022-07-29T03:56:07.482843"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194095,
         "customersAffected": 4,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
+        "lastUpdatedTime": "2022-07-29T03:54:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-29T02:10:33.064886"
-    },
-    {
-        "state": "L",
-        "county": "OTHER",
-        "customersServed": 5,
-        "customersAffected": 5,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
-        "latitude": null,
-        "longitude": null,
-        "_loaded_at": "2022-07-29T02:10:33.064891"
+        "_loaded_at": "2022-07-29T03:56:07.482848"
     },
     {
         "state": "L",
         "county": "OUACHITA",
         "customersServed": 79648,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-29T03:54:32",
         "latitude": 32.5634,
         "longitude": -92.03646666666667,
-        "_loaded_at": "2022-07-29T02:10:33.064896"
+        "_loaded_at": "2022-07-29T03:56:07.482853"
+    },
+    {
+        "state": "L",
+        "county": "ST. BERNARD",
+        "customersServed": 20691,
+        "customersAffected": 33,
+        "lastUpdatedTime": "2022-07-29T03:54:32",
+        "latitude": 29.932934362934365,
+        "longitude": -89.76490347490348,
+        "_loaded_at": "2022-07-29T03:56:07.482857"
     },
     {
         "state": "L",
         "county": "TERREBONNE",
         "customersServed": 26653,
         "customersAffected": 11,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
+        "lastUpdatedTime": "2022-07-29T03:54:32",
         "latitude": 29.472579505300352,
         "longitude": -90.93692579505301,
-        "_loaded_at": "2022-07-29T02:10:33.064900"
-    },
-    {
-        "state": "L",
-        "county": "UNION",
-        "customersServed": 3471,
-        "customersAffected": 21,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
-        "latitude": 32.76151639344262,
-        "longitude": -92.28840163934426,
-        "_loaded_at": "2022-07-29T02:10:33.064905"
-    },
-    {
-        "state": "L",
-        "county": "W. BATON ROUGE",
-        "customersServed": 12870,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-29T02:10:32",
-        "latitude": 30.509285714285713,
-        "longitude": -91.29169642857143,
-        "_loaded_at": "2022-07-29T02:10:33.064910"
+        "_loaded_at": "2022-07-29T03:56:07.482862"
     }
 ]
