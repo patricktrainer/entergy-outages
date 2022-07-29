@@ -4,49 +4,59 @@
         "county": "E. BATON ROUGE",
         "customersServed": 181375,
         "customersAffected": 775,
-        "lastUpdatedTime": "2022-07-29T11:16:32",
+        "lastUpdatedTime": "2022-07-29T11:36:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-29T11:17:04.405929"
+        "_loaded_at": "2022-07-29T11:38:00.506526"
+    },
+    {
+        "state": "L",
+        "county": "IBERVILLE",
+        "customersServed": 9127,
+        "customersAffected": 76,
+        "lastUpdatedTime": "2022-07-29T11:36:32",
+        "latitude": 30.252775119617226,
+        "longitude": -91.38511961722489,
+        "_loaded_at": "2022-07-29T11:38:00.506535"
+    },
+    {
+        "state": "L",
+        "county": "JACKSON",
+        "customersServed": 8899,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-29T11:36:32",
+        "latitude": 32.21722972972973,
+        "longitude": -92.75439189189188,
+        "_loaded_at": "2022-07-29T11:38:00.506541"
     },
     {
         "state": "L",
         "county": "LAFAYETTE",
         "customersServed": 16485,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-29T11:16:32",
+        "lastUpdatedTime": "2022-07-29T11:36:32",
         "latitude": 30.222664359861593,
         "longitude": -92.08692041522491,
-        "_loaded_at": "2022-07-29T11:17:04.405938"
+        "_loaded_at": "2022-07-29T11:38:00.506545"
     },
     {
         "state": "L",
         "county": "MADISON",
         "customersServed": 5820,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-29T11:16:32",
+        "lastUpdatedTime": "2022-07-29T11:36:32",
         "latitude": 32.32744303797468,
         "longitude": -91.32559493670887,
-        "_loaded_at": "2022-07-29T11:17:04.405943"
+        "_loaded_at": "2022-07-29T11:38:00.506550"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194095,
         "customersAffected": 4,
-        "lastUpdatedTime": "2022-07-29T11:16:32",
+        "lastUpdatedTime": "2022-07-29T11:36:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-29T11:17:04.405947"
-    },
-    {
-        "state": "L",
-        "county": "ST. MARTIN",
-        "customersServed": 4896,
-        "customersAffected": 3,
-        "lastUpdatedTime": "2022-07-29T11:16:32",
-        "latitude": 30.250061349693254,
-        "longitude": -91.74659509202453,
-        "_loaded_at": "2022-07-29T11:17:04.405952"
+        "_loaded_at": "2022-07-29T11:38:00.506555"
     }
 ]
