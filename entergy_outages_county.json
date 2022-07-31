@@ -1,102 +1,82 @@
 [
     {
         "state": "L",
-        "county": "ACADIA",
-        "customersServed": 6600,
-        "customersAffected": 36,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
-        "latitude": 30.216405750798724,
-        "longitude": -92.52246006389775,
-        "_loaded_at": "2022-07-31T04:35:56.191412"
-    },
-    {
-        "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181518,
-        "customersAffected": 61,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
+        "customersAffected": 62,
+        "lastUpdatedTime": "2022-07-31T05:00:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-07-31T04:35:56.191421"
+        "_loaded_at": "2022-07-31T05:02:10.781363"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210192,
         "customersAffected": 5,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
+        "lastUpdatedTime": "2022-07-31T05:00:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-07-31T04:35:56.191426"
+        "_loaded_at": "2022-07-31T05:02:10.781371"
     },
     {
         "state": "L",
         "county": "LA SALLE",
         "customersServed": 5798,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
+        "lastUpdatedTime": "2022-07-31T05:00:32",
         "latitude": 31.61041338582677,
         "longitude": -92.25734251968504,
-        "_loaded_at": "2022-07-31T04:35:56.191431"
+        "_loaded_at": "2022-07-31T05:02:10.781376"
+    },
+    {
+        "state": "L",
+        "county": "LIVINGSTON",
+        "customersServed": 23197,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-31T05:00:32",
+        "latitude": 30.404145161290323,
+        "longitude": -90.7923064516129,
+        "_loaded_at": "2022-07-31T05:02:10.781380"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194163,
-        "customersAffected": 50,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
+        "customersAffected": 49,
+        "lastUpdatedTime": "2022-07-31T05:00:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-07-31T04:35:56.191435"
-    },
-    {
-        "state": "L",
-        "county": "PLAQUEMINES",
-        "customersServed": 12522,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
-        "latitude": 29.632186046511627,
-        "longitude": -89.81465116279071,
-        "_loaded_at": "2022-07-31T04:35:56.191440"
-    },
-    {
-        "state": "L",
-        "county": "ST. CHARLES",
-        "customersServed": 22437,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
-        "latitude": 29.849055118110236,
-        "longitude": -90.40023622047244,
-        "_loaded_at": "2022-07-31T04:35:56.191444"
+        "_loaded_at": "2022-07-31T05:02:10.781384"
     },
     {
         "state": "L",
         "county": "ST. LANDRY",
         "customersServed": 10727,
         "customersAffected": 11,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
+        "lastUpdatedTime": "2022-07-31T05:00:32",
         "latitude": 30.52764350453172,
         "longitude": -92.05948640483383,
-        "_loaded_at": "2022-07-31T04:35:56.191449"
+        "_loaded_at": "2022-07-31T05:02:10.781388"
     },
     {
         "state": "L",
-        "county": "VERMILION",
-        "customersServed": 7869,
-        "customersAffected": 27,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
-        "latitude": 30.067826086956522,
-        "longitude": -92.4074154589372,
-        "_loaded_at": "2022-07-31T04:35:56.191453"
+        "county": "TENSAS",
+        "customersServed": 3610,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-07-31T05:00:32",
+        "latitude": 32.045488372093025,
+        "longitude": -91.31625581395349,
+        "_loaded_at": "2022-07-31T05:02:10.781393"
     },
     {
         "state": "L",
         "county": "WEBSTER",
         "customersServed": 11529,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-07-31T04:34:32",
+        "customersAffected": 23,
+        "lastUpdatedTime": "2022-07-31T05:00:32",
         "latitude": 32.75104651162791,
         "longitude": -93.3486046511628,
-        "_loaded_at": "2022-07-31T04:35:56.191458"
+        "_loaded_at": "2022-07-31T05:02:10.781397"
     }
 ]
