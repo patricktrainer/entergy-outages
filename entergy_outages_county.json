@@ -4,139 +4,179 @@
         "county": "ACADIA",
         "customersServed": 6600,
         "customersAffected": 65,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.216405750798724,
         "longitude": -92.52246006389775,
-        "_loaded_at": "2022-08-04T17:10:15.889245"
+        "_loaded_at": "2022-08-04T17:38:34.641420"
     },
     {
         "state": "L",
         "county": "ASCENSION",
         "customersServed": 43544,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.258093385214007,
         "longitude": -90.84015564202333,
-        "_loaded_at": "2022-08-04T17:10:15.889255"
+        "_loaded_at": "2022-08-04T17:38:34.641429"
+    },
+    {
+        "state": "L",
+        "county": "AVOYELLES",
+        "customersServed": 5697,
+        "customersAffected": 30,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
+        "latitude": 31.22366515837104,
+        "longitude": -92.00380090497738,
+        "_loaded_at": "2022-08-04T17:38:34.641435"
     },
     {
         "state": "L",
         "county": "CALCASIEU",
         "customersServed": 83591,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-08-04T17:10:15.889260"
+        "_loaded_at": "2022-08-04T17:38:34.641440"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181518,
-        "customersAffected": 141,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "customersAffected": 138,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-04T17:10:15.889265"
+        "_loaded_at": "2022-08-04T17:38:34.641444"
+    },
+    {
+        "state": "L",
+        "county": "JACKSON",
+        "customersServed": 8896,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
+        "latitude": 32.21722972972973,
+        "longitude": -92.75439189189188,
+        "_loaded_at": "2022-08-04T17:38:34.641449"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210192,
-        "customersAffected": 113,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "customersAffected": 51,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-04T17:10:15.889269"
+        "_loaded_at": "2022-08-04T17:38:34.641454"
     },
     {
         "state": "L",
         "county": "JEFFERSON DAVIS",
         "customersServed": 11892,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.266525821596247,
         "longitude": -92.66793427230047,
-        "_loaded_at": "2022-08-04T17:10:15.889274"
+        "_loaded_at": "2022-08-04T17:38:34.641459"
+    },
+    {
+        "state": "L",
+        "county": "LAFAYETTE",
+        "customersServed": 16502,
+        "customersAffected": 3,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
+        "latitude": 30.222664359861593,
+        "longitude": -92.08692041522491,
+        "_loaded_at": "2022-08-04T17:38:34.641463"
     },
     {
         "state": "L",
         "county": "LAFOURCHE",
         "customersServed": 42412,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 29.609287410926367,
         "longitude": -90.40995249406176,
-        "_loaded_at": "2022-08-04T17:10:15.889278"
+        "_loaded_at": "2022-08-04T17:38:34.641468"
     },
     {
         "state": "L",
         "county": "LINCOLN",
         "customersServed": 8748,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 32.684820512820515,
         "longitude": -92.74358974358974,
-        "_loaded_at": "2022-08-04T17:10:15.889283"
-    },
-    {
-        "state": "L",
-        "county": "LIVINGSTON",
-        "customersServed": 23197,
-        "customersAffected": 5,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
-        "latitude": 30.404145161290323,
-        "longitude": -90.7923064516129,
-        "_loaded_at": "2022-08-04T17:10:15.889288"
+        "_loaded_at": "2022-08-04T17:38:34.641473"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194163,
-        "customersAffected": 112,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "customersAffected": 115,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-04T17:10:15.889292"
+        "_loaded_at": "2022-08-04T17:38:34.641478"
     },
     {
         "state": "L",
         "county": "PLAQUEMINES",
         "customersServed": 12522,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 29.632186046511627,
         "longitude": -89.81465116279071,
-        "_loaded_at": "2022-08-04T17:10:15.889297"
+        "_loaded_at": "2022-08-04T17:38:34.641483"
     },
     {
         "state": "L",
         "county": "ST. CHARLES",
         "customersServed": 22437,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 29.849055118110236,
         "longitude": -90.40023622047244,
-        "_loaded_at": "2022-08-04T17:10:15.889302"
+        "_loaded_at": "2022-08-04T17:38:34.641487"
     },
     {
         "state": "L",
         "county": "ST. JOHN THE BAPTIST",
         "customersServed": 18900,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.092586206896552,
         "longitude": -90.53577586206896,
-        "_loaded_at": "2022-08-04T17:10:15.889306"
+        "_loaded_at": "2022-08-04T17:38:34.641492"
+    },
+    {
+        "state": "L",
+        "county": "TERREBONNE",
+        "customersServed": 26628,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
+        "latitude": 29.472579505300352,
+        "longitude": -90.93692579505301,
+        "_loaded_at": "2022-08-04T17:38:34.641497"
     },
     {
         "state": "L",
         "county": "W. FELICIANA",
         "customersServed": 1821,
         "customersAffected": 5,
-        "lastUpdatedTime": "2022-08-04T17:08:32",
+        "lastUpdatedTime": "2022-08-04T17:38:32",
         "latitude": 30.87159509202454,
         "longitude": -91.41463190184048,
-        "_loaded_at": "2022-08-04T17:10:15.889311"
+        "_loaded_at": "2022-08-04T17:38:34.641502"
+    },
+    {
+        "state": "L",
+        "county": "WINN",
+        "customersServed": 4710,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-04T17:38:32",
+        "latitude": 31.94213043478261,
+        "longitude": -92.75565217391303,
+        "_loaded_at": "2022-08-04T17:38:34.641506"
     }
 ]
