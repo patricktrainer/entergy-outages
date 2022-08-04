@@ -1,172 +1,122 @@
 [
     {
         "state": "L",
-        "county": "CLAIBORNE",
-        "customersServed": 4659,
-        "customersAffected": 5,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
-        "latitude": 32.65868932038835,
-        "longitude": -92.98533980582523,
-        "_loaded_at": "2022-08-04T01:56:46.383309"
-    },
-    {
-        "state": "L",
-        "county": "CONCORDIA",
-        "customersServed": 5098,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
-        "latitude": 31.40584051724138,
-        "longitude": -91.651875,
-        "_loaded_at": "2022-08-04T01:56:46.383318"
+        "county": "ACADIA",
+        "customersServed": 6600,
+        "customersAffected": 10,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
+        "latitude": 30.216405750798724,
+        "longitude": -92.52246006389775,
+        "_loaded_at": "2022-08-04T03:35:24.846362"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181518,
-        "customersAffected": 20,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "customersAffected": 15,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-04T01:56:46.383323"
+        "_loaded_at": "2022-08-04T03:35:24.846370"
     },
     {
         "state": "L",
         "county": "IBERIA",
         "customersServed": 5933,
-        "customersAffected": 4,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "customersAffected": 3,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 29.968079470198678,
         "longitude": -91.6541059602649,
-        "_loaded_at": "2022-08-04T01:56:46.383328"
+        "_loaded_at": "2022-08-04T03:35:24.846375"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210192,
-        "customersAffected": 16,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "customersAffected": 22,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-04T01:56:46.383333"
+        "_loaded_at": "2022-08-04T03:35:24.846379"
     },
     {
         "state": "L",
         "county": "JEFFERSON DAVIS",
         "customersServed": 11892,
         "customersAffected": 51,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 30.266525821596247,
         "longitude": -92.66793427230047,
-        "_loaded_at": "2022-08-04T01:56:46.383338"
-    },
-    {
-        "state": "L",
-        "county": "LINCOLN",
-        "customersServed": 8748,
-        "customersAffected": 10,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
-        "latitude": 32.684820512820515,
-        "longitude": -92.74358974358974,
-        "_loaded_at": "2022-08-04T01:56:46.383343"
+        "_loaded_at": "2022-08-04T03:35:24.846384"
     },
     {
         "state": "L",
         "county": "MADISON",
         "customersServed": 5825,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 32.32744303797468,
         "longitude": -91.32559493670887,
-        "_loaded_at": "2022-08-04T01:56:46.383348"
+        "_loaded_at": "2022-08-04T03:35:24.846388"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194163,
-        "customersAffected": 8,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "customersAffected": 7,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-04T01:56:46.383352"
+        "_loaded_at": "2022-08-04T03:35:24.846393"
     },
     {
         "state": "L",
         "county": "OUACHITA",
         "customersServed": 79730,
-        "customersAffected": 4,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "customersAffected": 24,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 32.5634,
         "longitude": -92.03646666666667,
-        "_loaded_at": "2022-08-04T01:56:46.383357"
-    },
-    {
-        "state": "L",
-        "county": "ST. BERNARD",
-        "customersServed": 20736,
-        "customersAffected": 1750,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
-        "latitude": 29.932934362934365,
-        "longitude": -89.76490347490348,
-        "_loaded_at": "2022-08-04T01:56:46.383362"
+        "_loaded_at": "2022-08-04T03:35:24.846397"
     },
     {
         "state": "L",
         "county": "ST. MARTIN",
         "customersServed": 4888,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 30.250061349693254,
         "longitude": -91.74659509202453,
-        "_loaded_at": "2022-08-04T01:56:46.383367"
+        "_loaded_at": "2022-08-04T03:35:24.846402"
     },
     {
         "state": "L",
         "county": "TANGIPAHOA",
         "customersServed": 63787,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "customersAffected": 4,
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 30.60185393258427,
         "longitude": -90.36870786516853,
-        "_loaded_at": "2022-08-04T01:56:46.383372"
+        "_loaded_at": "2022-08-04T03:35:24.846406"
     },
     {
         "state": "L",
         "county": "TERREBONNE",
         "customersServed": 26628,
         "customersAffected": 16,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 29.472579505300352,
         "longitude": -90.93692579505301,
-        "_loaded_at": "2022-08-04T01:56:46.383376"
-    },
-    {
-        "state": "L",
-        "county": "UNION",
-        "customersServed": 3474,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
-        "latitude": 32.76151639344262,
-        "longitude": -92.28840163934426,
-        "_loaded_at": "2022-08-04T01:56:46.383381"
-    },
-    {
-        "state": "L",
-        "county": "W. BATON ROUGE",
-        "customersServed": 12899,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
-        "latitude": 30.509285714285713,
-        "longitude": -91.29169642857143,
-        "_loaded_at": "2022-08-04T01:56:46.383386"
+        "_loaded_at": "2022-08-04T03:35:24.846411"
     },
     {
         "state": "L",
         "county": "WINN",
         "customersServed": 4710,
         "customersAffected": 5,
-        "lastUpdatedTime": "2022-08-04T01:56:32",
+        "lastUpdatedTime": "2022-08-04T03:34:32",
         "latitude": 31.94213043478261,
         "longitude": -92.75565217391303,
-        "_loaded_at": "2022-08-04T01:56:46.383391"
+        "_loaded_at": "2022-08-04T03:35:24.846415"
     }
 ]
