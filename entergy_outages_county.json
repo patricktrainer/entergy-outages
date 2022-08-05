@@ -3,90 +3,80 @@
         "state": "L",
         "county": "CALCASIEU",
         "customersServed": 83591,
-        "customersAffected": 78,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
+        "customersAffected": 5,
+        "lastUpdatedTime": "2022-08-05T05:32:32",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-08-05T04:50:08.096577"
-    },
-    {
-        "state": "L",
-        "county": "CAMERON",
-        "customersServed": 1729,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
-        "latitude": 29.893855421686748,
-        "longitude": -93.4987951807229,
-        "_loaded_at": "2022-08-05T04:50:08.096586"
+        "_loaded_at": "2022-08-05T05:33:45.908818"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181518,
-        "customersAffected": 10,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-05T05:32:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-05T04:50:08.096591"
+        "_loaded_at": "2022-08-05T05:33:45.908835"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210192,
         "customersAffected": 4,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
+        "lastUpdatedTime": "2022-08-05T05:32:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-05T04:50:08.096596"
+        "_loaded_at": "2022-08-05T05:33:45.908845"
     },
     {
         "state": "L",
-        "county": "LAFAYETTE",
-        "customersServed": 16502,
+        "county": "LAFOURCHE",
+        "customersServed": 42412,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
-        "latitude": 30.222664359861593,
-        "longitude": -92.08692041522491,
-        "_loaded_at": "2022-08-05T04:50:08.096600"
+        "lastUpdatedTime": "2022-08-05T05:32:32",
+        "latitude": 29.609287410926367,
+        "longitude": -90.40995249406176,
+        "_loaded_at": "2022-08-05T05:33:45.908854"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194163,
         "customersAffected": 4,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
+        "lastUpdatedTime": "2022-08-05T05:32:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-05T04:50:08.096605"
-    },
-    {
-        "state": "L",
-        "county": "OTHER",
-        "customersServed": 1,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
-        "latitude": null,
-        "longitude": null,
-        "_loaded_at": "2022-08-05T04:50:08.096610"
+        "_loaded_at": "2022-08-05T05:33:45.908862"
     },
     {
         "state": "L",
         "county": "ST. JOHN THE BAPTIST",
         "customersServed": 18900,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
+        "lastUpdatedTime": "2022-08-05T05:32:32",
         "latitude": 30.092586206896552,
         "longitude": -90.53577586206896,
-        "_loaded_at": "2022-08-05T04:50:08.096614"
+        "_loaded_at": "2022-08-05T05:33:45.908871"
     },
     {
         "state": "L",
         "county": "TANGIPAHOA",
         "customersServed": 63787,
-        "customersAffected": 245,
-        "lastUpdatedTime": "2022-08-05T04:48:32",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-05T05:32:32",
         "latitude": 30.60185393258427,
         "longitude": -90.36870786516853,
-        "_loaded_at": "2022-08-05T04:50:08.096619"
+        "_loaded_at": "2022-08-05T05:33:45.908879"
+    },
+    {
+        "state": "L",
+        "county": "TERREBONNE",
+        "customersServed": 26628,
+        "customersAffected": 45,
+        "lastUpdatedTime": "2022-08-05T05:32:32",
+        "latitude": 29.472579505300352,
+        "longitude": -90.93692579505301,
+        "_loaded_at": "2022-08-05T05:33:45.908888"
     }
 ]
