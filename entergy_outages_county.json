@@ -4,79 +4,99 @@
         "county": "ASCENSION",
         "customersServed": 43544,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 30.258093385214007,
         "longitude": -90.84015564202333,
-        "_loaded_at": "2022-08-06T04:56:55.421356"
+        "_loaded_at": "2022-08-06T05:21:03.280960"
     },
     {
         "state": "L",
         "county": "CALCASIEU",
         "customersServed": 83591,
         "customersAffected": 4,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-08-06T04:56:55.421366"
+        "_loaded_at": "2022-08-06T05:21:03.280970"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181518,
-        "customersAffected": 31,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "customersAffected": 18,
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-06T04:56:55.421371"
+        "_loaded_at": "2022-08-06T05:21:03.280975"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210192,
-        "customersAffected": 3,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-06T04:56:55.421376"
+        "_loaded_at": "2022-08-06T05:21:03.280979"
     },
     {
         "state": "L",
         "county": "LIVINGSTON",
         "customersServed": 23197,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 30.404145161290323,
         "longitude": -90.7923064516129,
-        "_loaded_at": "2022-08-06T04:56:55.421381"
+        "_loaded_at": "2022-08-06T05:21:03.280984"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194163,
-        "customersAffected": 6,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "customersAffected": 5,
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-06T04:56:55.421386"
+        "_loaded_at": "2022-08-06T05:21:03.280989"
+    },
+    {
+        "state": "L",
+        "county": "OTHER",
+        "customersServed": 1,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-06T05:20:32",
+        "latitude": null,
+        "longitude": null,
+        "_loaded_at": "2022-08-06T05:21:03.280993"
+    },
+    {
+        "state": "L",
+        "county": "ST. JAMES",
+        "customersServed": 9677,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-06T05:20:32",
+        "latitude": 29.958266666666667,
+        "longitude": -90.748,
+        "_loaded_at": "2022-08-06T05:21:03.280998"
     },
     {
         "state": "L",
         "county": "ST. JOHN THE BAPTIST",
         "customersServed": 18900,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 30.092586206896552,
         "longitude": -90.53577586206896,
-        "_loaded_at": "2022-08-06T04:56:55.421391"
+        "_loaded_at": "2022-08-06T05:21:03.281002"
     },
     {
         "state": "L",
         "county": "TANGIPAHOA",
         "customersServed": 63787,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-06T04:56:31",
+        "lastUpdatedTime": "2022-08-06T05:20:32",
         "latitude": 30.60185393258427,
         "longitude": -90.36870786516853,
-        "_loaded_at": "2022-08-06T04:56:55.421395"
+        "_loaded_at": "2022-08-06T05:21:03.281007"
     }
 ]
