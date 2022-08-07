@@ -4,59 +4,69 @@
         "county": "ASCENSION",
         "customersServed": 43630,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-07T18:44:32",
+        "lastUpdatedTime": "2022-08-07T19:14:32",
         "latitude": 30.258093385214007,
         "longitude": -90.84015564202333,
-        "_loaded_at": "2022-08-07T18:45:42.499568"
+        "_loaded_at": "2022-08-07T19:15:57.202993"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181619,
-        "customersAffected": 246,
-        "lastUpdatedTime": "2022-08-07T18:44:32",
+        "customersAffected": 279,
+        "lastUpdatedTime": "2022-08-07T19:14:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-07T18:45:42.499578"
+        "_loaded_at": "2022-08-07T19:15:57.203010"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210016,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-07T18:44:32",
+        "lastUpdatedTime": "2022-08-07T19:14:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-07T18:45:42.499583"
+        "_loaded_at": "2022-08-07T19:15:57.203019"
+    },
+    {
+        "state": "L",
+        "county": "LAFOURCHE",
+        "customersServed": 42386,
+        "customersAffected": 8,
+        "lastUpdatedTime": "2022-08-07T19:14:32",
+        "latitude": 29.609287410926367,
+        "longitude": -90.40995249406176,
+        "_loaded_at": "2022-08-07T19:15:57.203028"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194107,
-        "customersAffected": 77,
-        "lastUpdatedTime": "2022-08-07T18:44:32",
+        "customersAffected": 76,
+        "lastUpdatedTime": "2022-08-07T19:14:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-07T18:45:42.499588"
+        "_loaded_at": "2022-08-07T19:15:57.203036"
     },
     {
         "state": "L",
         "county": "ST. JOHN THE BAPTIST",
         "customersServed": 18911,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-07T18:44:32",
+        "lastUpdatedTime": "2022-08-07T19:14:32",
         "latitude": 30.092586206896552,
         "longitude": -90.53577586206896,
-        "_loaded_at": "2022-08-07T18:45:42.499593"
+        "_loaded_at": "2022-08-07T19:15:57.203045"
     },
     {
         "state": "L",
         "county": "TANGIPAHOA",
         "customersServed": 63799,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-07T18:44:32",
+        "customersAffected": 4,
+        "lastUpdatedTime": "2022-08-07T19:14:32",
         "latitude": 30.60185393258427,
         "longitude": -90.36870786516853,
-        "_loaded_at": "2022-08-07T18:45:42.499598"
+        "_loaded_at": "2022-08-07T19:15:57.203054"
     }
 ]
