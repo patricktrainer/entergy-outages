@@ -4,99 +4,99 @@
         "county": "ASCENSION",
         "customersServed": 43630,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 30.258093385214007,
         "longitude": -90.84015564202333,
-        "_loaded_at": "2022-08-11T23:52:53.012325"
+        "_loaded_at": "2022-08-12T01:55:16.182886"
     },
     {
         "state": "L",
         "county": "AVOYELLES",
         "customersServed": 5694,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 31.22366515837104,
         "longitude": -92.00380090497738,
-        "_loaded_at": "2022-08-11T23:52:53.012338"
+        "_loaded_at": "2022-08-12T01:55:16.182895"
+    },
+    {
+        "state": "L",
+        "county": "CALCASIEU",
+        "customersServed": 83608,
+        "customersAffected": 6,
+        "lastUpdatedTime": "2022-08-12T01:54:32",
+        "latitude": 30.221415384615383,
+        "longitude": -93.57326153846154,
+        "_loaded_at": "2022-08-12T01:55:16.182900"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181619,
-        "customersAffected": 96,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "customersAffected": 15,
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-11T23:52:53.012345"
-    },
-    {
-        "state": "L",
-        "county": "IBERIA",
-        "customersServed": 5944,
-        "customersAffected": 25,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
-        "latitude": 29.968079470198678,
-        "longitude": -91.6541059602649,
-        "_loaded_at": "2022-08-11T23:52:53.012352"
+        "_loaded_at": "2022-08-12T01:55:16.182905"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210016,
-        "customersAffected": 26,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "customersAffected": 4,
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-11T23:52:53.012359"
+        "_loaded_at": "2022-08-12T01:55:16.182909"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194107,
         "customersAffected": 6,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-11T23:52:53.012365"
+        "_loaded_at": "2022-08-12T01:55:16.182914"
     },
     {
         "state": "L",
-        "county": "RICHLAND",
-        "customersServed": 8931,
+        "county": "OTHER",
+        "customersServed": 1,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
-        "latitude": 32.37761255115962,
-        "longitude": -91.76414733969986,
-        "_loaded_at": "2022-08-11T23:52:53.012372"
+        "lastUpdatedTime": "2022-08-12T01:54:32",
+        "latitude": null,
+        "longitude": null,
+        "_loaded_at": "2022-08-12T01:55:16.182918"
     },
     {
         "state": "L",
         "county": "ST. JOHN THE BAPTIST",
         "customersServed": 18911,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 30.092586206896552,
         "longitude": -90.53577586206896,
-        "_loaded_at": "2022-08-11T23:52:53.012379"
+        "_loaded_at": "2022-08-12T01:55:16.182923"
     },
     {
         "state": "L",
         "county": "TANGIPAHOA",
         "customersServed": 63799,
-        "customersAffected": 25,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "customersAffected": 122,
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 30.60185393258427,
         "longitude": -90.36870786516853,
-        "_loaded_at": "2022-08-11T23:52:53.012385"
+        "_loaded_at": "2022-08-12T01:55:16.182927"
     },
     {
         "state": "L",
         "county": "TENSAS",
         "customersServed": 3603,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-11T23:52:31",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-12T01:54:32",
         "latitude": 32.045488372093025,
         "longitude": -91.31625581395349,
-        "_loaded_at": "2022-08-11T23:52:53.012392"
+        "_loaded_at": "2022-08-12T01:55:16.182932"
     }
 ]
