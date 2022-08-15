@@ -4,69 +4,69 @@
         "county": "ASCENSION",
         "customersServed": 43623,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-15T11:50:32",
+        "lastUpdatedTime": "2022-08-15T12:40:32",
         "latitude": 30.258093385214007,
         "longitude": -90.84015564202333,
-        "_loaded_at": "2022-08-15T11:51:47.262589"
+        "_loaded_at": "2022-08-15T12:42:01.152285"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181512,
-        "customersAffected": 4,
-        "lastUpdatedTime": "2022-08-15T11:50:32",
+        "customersAffected": 3,
+        "lastUpdatedTime": "2022-08-15T12:40:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-15T11:51:47.262596"
+        "_loaded_at": "2022-08-15T12:42:01.152296"
+    },
+    {
+        "state": "L",
+        "county": "FRANKLIN",
+        "customersServed": 7140,
+        "customersAffected": 6,
+        "lastUpdatedTime": "2022-08-15T12:40:32",
+        "latitude": 32.16216839677047,
+        "longitude": -91.68659746251441,
+        "_loaded_at": "2022-08-15T12:42:01.152302"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194227,
-        "customersAffected": 13,
-        "lastUpdatedTime": "2022-08-15T11:50:32",
+        "customersAffected": 7,
+        "lastUpdatedTime": "2022-08-15T12:40:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-15T11:51:47.262600"
+        "_loaded_at": "2022-08-15T12:42:01.152306"
+    },
+    {
+        "state": "L",
+        "county": "POINTE COUPEE",
+        "customersServed": 5079,
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-08-15T12:40:32",
+        "latitude": 30.789189189189187,
+        "longitude": -91.64455598455598,
+        "_loaded_at": "2022-08-15T12:42:01.152311"
     },
     {
         "state": "L",
         "county": "RICHLAND",
         "customersServed": 8938,
         "customersAffected": 6,
-        "lastUpdatedTime": "2022-08-15T11:50:32",
+        "lastUpdatedTime": "2022-08-15T12:40:32",
         "latitude": 32.37761255115962,
         "longitude": -91.76414733969986,
-        "_loaded_at": "2022-08-15T11:51:47.262604"
-    },
-    {
-        "state": "L",
-        "county": "ST. BERNARD",
-        "customersServed": 20746,
-        "customersAffected": 8,
-        "lastUpdatedTime": "2022-08-15T11:50:32",
-        "latitude": 29.932934362934365,
-        "longitude": -89.76490347490348,
-        "_loaded_at": "2022-08-15T11:51:47.262607"
+        "_loaded_at": "2022-08-15T12:42:01.152316"
     },
     {
         "state": "L",
         "county": "TANGIPAHOA",
         "customersServed": 63763,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-15T11:50:32",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-15T12:40:32",
         "latitude": 30.60185393258427,
         "longitude": -90.36870786516853,
-        "_loaded_at": "2022-08-15T11:51:47.262611"
-    },
-    {
-        "state": "L",
-        "county": "WASHINGTON",
-        "customersServed": 8036,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-15T11:50:32",
-        "latitude": 30.81416901408451,
-        "longitude": -89.98884507042254,
-        "_loaded_at": "2022-08-15T11:51:47.262614"
+        "_loaded_at": "2022-08-15T12:42:01.152321"
     }
 ]
