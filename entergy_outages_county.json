@@ -1,72 +1,52 @@
 [
     {
         "state": "L",
-        "county": "BIENVILLE",
-        "customersServed": 7345,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-27T09:18:32",
-        "latitude": 32.30282122905028,
-        "longitude": -93.09335195530726,
-        "_loaded_at": "2022-08-27T09:19:24.744635"
-    },
-    {
-        "state": "L",
         "county": "CALCASIEU",
         "customersServed": 83649,
         "customersAffected": 3,
-        "lastUpdatedTime": "2022-08-27T09:18:32",
+        "lastUpdatedTime": "2022-08-27T09:40:32",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-08-27T09:19:24.744644"
+        "_loaded_at": "2022-08-27T09:41:18.444629"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181564,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-27T09:18:32",
+        "lastUpdatedTime": "2022-08-27T09:40:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-27T09:19:24.744649"
+        "_loaded_at": "2022-08-27T09:41:18.444638"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210104,
         "customersAffected": 13,
-        "lastUpdatedTime": "2022-08-27T09:18:32",
+        "lastUpdatedTime": "2022-08-27T09:40:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-27T09:19:24.744654"
-    },
-    {
-        "state": "L",
-        "county": "LIVINGSTON",
-        "customersServed": 23230,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-27T09:18:32",
-        "latitude": 30.404145161290323,
-        "longitude": -90.7923064516129,
-        "_loaded_at": "2022-08-27T09:19:24.744659"
+        "_loaded_at": "2022-08-27T09:41:18.444642"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194140,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-27T09:18:32",
+        "lastUpdatedTime": "2022-08-27T09:40:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-27T09:19:24.744663"
+        "_loaded_at": "2022-08-27T09:41:18.444646"
     },
     {
         "state": "L",
         "county": "ST. HELENA",
         "customersServed": 1735,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-27T09:18:32",
+        "lastUpdatedTime": "2022-08-27T09:40:32",
         "latitude": 30.80721712538226,
         "longitude": -90.84807339449542,
-        "_loaded_at": "2022-08-27T09:19:24.744668"
+        "_loaded_at": "2022-08-27T09:41:18.444650"
     }
 ]
