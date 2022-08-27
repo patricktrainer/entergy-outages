@@ -3,40 +3,50 @@
         "state": "L",
         "county": "CALCASIEU",
         "customersServed": 83649,
-        "customersAffected": 3,
-        "lastUpdatedTime": "2022-08-27T09:52:32",
+        "customersAffected": 4,
+        "lastUpdatedTime": "2022-08-27T10:20:31",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-08-27T09:52:50.901027"
+        "_loaded_at": "2022-08-27T10:21:30.651208"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181564,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-27T09:52:32",
+        "lastUpdatedTime": "2022-08-27T10:20:31",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-27T09:52:50.901035"
+        "_loaded_at": "2022-08-27T10:21:30.651217"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210104,
-        "customersAffected": 13,
-        "lastUpdatedTime": "2022-08-27T09:52:32",
+        "customersAffected": 3,
+        "lastUpdatedTime": "2022-08-27T10:20:31",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-27T09:52:50.901040"
+        "_loaded_at": "2022-08-27T10:21:30.651221"
+    },
+    {
+        "state": "L",
+        "county": "LIVINGSTON",
+        "customersServed": 23230,
+        "customersAffected": 65,
+        "lastUpdatedTime": "2022-08-27T10:20:31",
+        "latitude": 30.404145161290323,
+        "longitude": -90.7923064516129,
+        "_loaded_at": "2022-08-27T10:21:30.651226"
     },
     {
         "state": "L",
         "county": "ST. HELENA",
         "customersServed": 1735,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-27T09:52:32",
+        "lastUpdatedTime": "2022-08-27T10:20:31",
         "latitude": 30.80721712538226,
         "longitude": -90.84807339449542,
-        "_loaded_at": "2022-08-27T09:52:50.901045"
+        "_loaded_at": "2022-08-27T10:21:30.651230"
     }
 ]
