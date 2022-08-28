@@ -1,52 +1,72 @@
 [
     {
         "state": "L",
+        "county": "AVOYELLES",
+        "customersServed": 5694,
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-08-28T09:40:32",
+        "latitude": 31.22366515837104,
+        "longitude": -92.00380090497738,
+        "_loaded_at": "2022-08-28T09:41:53.295598"
+    },
+    {
+        "state": "L",
         "county": "CALCASIEU",
         "customersServed": 83726,
         "customersAffected": 49,
-        "lastUpdatedTime": "2022-08-28T09:18:31",
+        "lastUpdatedTime": "2022-08-28T09:40:32",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-08-28T09:19:27.484767"
+        "_loaded_at": "2022-08-28T09:41:53.295607"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181845,
-        "customersAffected": 50,
-        "lastUpdatedTime": "2022-08-28T09:18:31",
+        "customersAffected": 51,
+        "lastUpdatedTime": "2022-08-28T09:40:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-28T09:19:27.484774"
+        "_loaded_at": "2022-08-28T09:41:53.295613"
     },
     {
         "state": "L",
         "county": "MADISON",
         "customersServed": 5832,
         "customersAffected": 58,
-        "lastUpdatedTime": "2022-08-28T09:18:31",
+        "lastUpdatedTime": "2022-08-28T09:40:32",
         "latitude": 32.32744303797468,
         "longitude": -91.32559493670887,
-        "_loaded_at": "2022-08-28T09:19:27.484778"
+        "_loaded_at": "2022-08-28T09:41:53.295618"
     },
     {
         "state": "L",
         "county": "PLAQUEMINES",
         "customersServed": 12522,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-28T09:18:31",
+        "lastUpdatedTime": "2022-08-28T09:40:32",
         "latitude": 29.632186046511627,
         "longitude": -89.81465116279071,
-        "_loaded_at": "2022-08-28T09:19:27.484782"
+        "_loaded_at": "2022-08-28T09:41:53.295623"
     },
     {
         "state": "L",
         "county": "ST. HELENA",
         "customersServed": 1735,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-28T09:18:31",
+        "lastUpdatedTime": "2022-08-28T09:40:32",
         "latitude": 30.80721712538226,
         "longitude": -90.84807339449542,
-        "_loaded_at": "2022-08-28T09:19:27.484785"
+        "_loaded_at": "2022-08-28T09:41:53.295627"
+    },
+    {
+        "state": "L",
+        "county": "TANGIPAHOA",
+        "customersServed": 63826,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-28T09:40:32",
+        "latitude": 30.60185393258427,
+        "longitude": -90.36870786516853,
+        "_loaded_at": "2022-08-28T09:41:53.295632"
     }
 ]
