@@ -4,39 +4,49 @@
         "county": "CALCASIEU",
         "customersServed": 83726,
         "customersAffected": 49,
-        "lastUpdatedTime": "2022-08-28T07:16:32",
+        "lastUpdatedTime": "2022-08-28T07:38:31",
         "latitude": 30.221415384615383,
         "longitude": -93.57326153846154,
-        "_loaded_at": "2022-08-28T07:18:21.068756"
+        "_loaded_at": "2022-08-28T07:39:04.672479"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181845,
-        "customersAffected": 54,
-        "lastUpdatedTime": "2022-08-28T07:16:32",
+        "customersAffected": 53,
+        "lastUpdatedTime": "2022-08-28T07:38:31",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-28T07:18:21.068766"
+        "_loaded_at": "2022-08-28T07:39:04.672492"
+    },
+    {
+        "state": "L",
+        "county": "JEFFERSON",
+        "customersServed": 210249,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-28T07:38:31",
+        "latitude": 29.6015737704918,
+        "longitude": -90.08645901639343,
+        "_loaded_at": "2022-08-28T07:39:04.672500"
     },
     {
         "state": "L",
         "county": "MADISON",
         "customersServed": 5832,
         "customersAffected": 58,
-        "lastUpdatedTime": "2022-08-28T07:16:32",
+        "lastUpdatedTime": "2022-08-28T07:38:31",
         "latitude": 32.32744303797468,
         "longitude": -91.32559493670887,
-        "_loaded_at": "2022-08-28T07:18:21.068771"
+        "_loaded_at": "2022-08-28T07:39:04.672506"
     },
     {
         "state": "L",
         "county": "ST. HELENA",
         "customersServed": 1735,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-28T07:16:32",
+        "lastUpdatedTime": "2022-08-28T07:38:31",
         "latitude": 30.80721712538226,
         "longitude": -90.84807339449542,
-        "_loaded_at": "2022-08-28T07:18:21.068776"
+        "_loaded_at": "2022-08-28T07:39:04.672513"
     }
 ]
