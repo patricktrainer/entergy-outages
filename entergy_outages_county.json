@@ -4,59 +4,99 @@
         "county": "ASCENSION",
         "customersServed": 43630,
         "customersAffected": 33,
-        "lastUpdatedTime": "2022-08-29T11:38:32",
+        "lastUpdatedTime": "2022-08-29T11:50:32",
         "latitude": 30.258093385214007,
         "longitude": -90.84015564202333,
-        "_loaded_at": "2022-08-29T11:39:33.352414"
+        "_loaded_at": "2022-08-29T11:51:56.714416"
+    },
+    {
+        "state": "L",
+        "county": "CALDWELL",
+        "customersServed": 6106,
+        "customersAffected": 13,
+        "lastUpdatedTime": "2022-08-29T11:50:32",
+        "latitude": 32.13552,
+        "longitude": -91.95332,
+        "_loaded_at": "2022-08-29T11:51:56.714427"
     },
     {
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181845,
-        "customersAffected": 30,
-        "lastUpdatedTime": "2022-08-29T11:38:32",
+        "customersAffected": 29,
+        "lastUpdatedTime": "2022-08-29T11:50:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-29T11:39:33.352424"
+        "_loaded_at": "2022-08-29T11:51:56.714432"
+    },
+    {
+        "state": "L",
+        "county": "JEFFERSON",
+        "customersServed": 210249,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-29T11:50:32",
+        "latitude": 29.6015737704918,
+        "longitude": -90.08645901639343,
+        "_loaded_at": "2022-08-29T11:51:56.714437"
     },
     {
         "state": "L",
         "county": "JEFFERSON DAVIS",
         "customersServed": 11899,
         "customersAffected": 52,
-        "lastUpdatedTime": "2022-08-29T11:38:32",
+        "lastUpdatedTime": "2022-08-29T11:50:32",
         "latitude": 30.266525821596247,
         "longitude": -92.66793427230047,
-        "_loaded_at": "2022-08-29T11:39:33.352429"
+        "_loaded_at": "2022-08-29T11:51:56.714442"
+    },
+    {
+        "state": "L",
+        "county": "LA SALLE",
+        "customersServed": 5782,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-29T11:50:32",
+        "latitude": 31.61041338582677,
+        "longitude": -92.25734251968504,
+        "_loaded_at": "2022-08-29T11:51:56.714447"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194148,
-        "customersAffected": 10,
-        "lastUpdatedTime": "2022-08-29T11:38:32",
+        "customersAffected": 40,
+        "lastUpdatedTime": "2022-08-29T11:50:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-29T11:39:33.352433"
+        "_loaded_at": "2022-08-29T11:51:56.714451"
     },
     {
         "state": "L",
         "county": "PLAQUEMINES",
         "customersServed": 12522,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-29T11:38:32",
+        "lastUpdatedTime": "2022-08-29T11:50:32",
         "latitude": 29.632186046511627,
         "longitude": -89.81465116279071,
-        "_loaded_at": "2022-08-29T11:39:33.352438"
+        "_loaded_at": "2022-08-29T11:51:56.714456"
+    },
+    {
+        "state": "L",
+        "county": "ST. CHARLES",
+        "customersServed": 22445,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-08-29T11:50:32",
+        "latitude": 29.849055118110236,
+        "longitude": -90.40023622047244,
+        "_loaded_at": "2022-08-29T11:51:56.714461"
     },
     {
         "state": "L",
         "county": "W. BATON ROUGE",
         "customersServed": 12917,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-29T11:38:32",
+        "lastUpdatedTime": "2022-08-29T11:50:32",
         "latitude": 30.509285714285713,
         "longitude": -91.29169642857143,
-        "_loaded_at": "2022-08-29T11:39:33.352442"
+        "_loaded_at": "2022-08-29T11:51:56.714466"
     }
 ]
