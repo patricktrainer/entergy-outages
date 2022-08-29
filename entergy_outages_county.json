@@ -1,42 +1,52 @@
 [
     {
         "state": "L",
+        "county": "ASCENSION",
+        "customersServed": 43630,
+        "customersAffected": 33,
+        "lastUpdatedTime": "2022-08-29T06:48:32",
+        "latitude": 30.258093385214007,
+        "longitude": -90.84015564202333,
+        "_loaded_at": "2022-08-29T06:50:30.027063"
+    },
+    {
+        "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181845,
-        "customersAffected": 57,
-        "lastUpdatedTime": "2022-08-29T05:54:32",
+        "customersAffected": 48,
+        "lastUpdatedTime": "2022-08-29T06:48:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-29T05:55:23.974578"
+        "_loaded_at": "2022-08-29T06:50:30.027073"
     },
     {
         "state": "L",
         "county": "JACKSON",
         "customersServed": 8899,
         "customersAffected": 49,
-        "lastUpdatedTime": "2022-08-29T05:54:32",
+        "lastUpdatedTime": "2022-08-29T06:48:32",
         "latitude": 32.21722972972973,
         "longitude": -92.75439189189188,
-        "_loaded_at": "2022-08-29T05:55:23.974605"
+        "_loaded_at": "2022-08-29T06:50:30.027079"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194148,
-        "customersAffected": 47,
-        "lastUpdatedTime": "2022-08-29T05:54:32",
+        "customersAffected": 48,
+        "lastUpdatedTime": "2022-08-29T06:48:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-29T05:55:23.974610"
+        "_loaded_at": "2022-08-29T06:50:30.027084"
     },
     {
         "state": "L",
         "county": "W. BATON ROUGE",
         "customersServed": 12917,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-29T05:54:32",
+        "lastUpdatedTime": "2022-08-29T06:48:32",
         "latitude": 30.509285714285713,
         "longitude": -91.29169642857143,
-        "_loaded_at": "2022-08-29T05:55:23.974630"
+        "_loaded_at": "2022-08-29T06:50:30.027088"
     }
 ]
