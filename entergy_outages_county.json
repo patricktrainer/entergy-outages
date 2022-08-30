@@ -3,70 +3,60 @@
         "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181845,
-        "customersAffected": 77,
-        "lastUpdatedTime": "2022-08-30T04:50:32",
+        "customersAffected": 73,
+        "lastUpdatedTime": "2022-08-30T06:12:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-30T04:51:04.009438"
+        "_loaded_at": "2022-08-30T06:13:00.474710"
     },
     {
         "state": "L",
-        "county": "IBERVILLE",
-        "customersServed": 9154,
-        "customersAffected": 19,
-        "lastUpdatedTime": "2022-08-30T04:50:32",
-        "latitude": 30.252775119617226,
-        "longitude": -91.38511961722489,
-        "_loaded_at": "2022-08-30T04:51:04.009449"
+        "county": "JACKSON",
+        "customersServed": 8899,
+        "customersAffected": 15,
+        "lastUpdatedTime": "2022-08-30T06:12:32",
+        "latitude": 32.21722972972973,
+        "longitude": -92.75439189189188,
+        "_loaded_at": "2022-08-30T06:13:00.474721"
     },
     {
         "state": "L",
         "county": "JEFFERSON",
         "customersServed": 210249,
-        "customersAffected": 41,
-        "lastUpdatedTime": "2022-08-30T04:50:32",
+        "customersAffected": 39,
+        "lastUpdatedTime": "2022-08-30T06:12:32",
         "latitude": 29.6015737704918,
         "longitude": -90.08645901639343,
-        "_loaded_at": "2022-08-30T04:51:04.009454"
+        "_loaded_at": "2022-08-30T06:13:00.474726"
     },
     {
         "state": "L",
         "county": "MOREHOUSE",
         "customersServed": 12620,
-        "customersAffected": 242,
-        "lastUpdatedTime": "2022-08-30T04:50:32",
+        "customersAffected": 236,
+        "lastUpdatedTime": "2022-08-30T06:12:32",
         "latitude": 32.71818540433925,
         "longitude": -91.82836291913216,
-        "_loaded_at": "2022-08-30T04:51:04.009459"
+        "_loaded_at": "2022-08-30T06:13:00.474731"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194148,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-30T04:50:32",
+        "lastUpdatedTime": "2022-08-30T06:12:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-30T04:51:04.009464"
-    },
-    {
-        "state": "L",
-        "county": "OTHER",
-        "customersServed": 1,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-30T04:50:32",
-        "latitude": null,
-        "longitude": null,
-        "_loaded_at": "2022-08-30T04:51:04.009469"
+        "_loaded_at": "2022-08-30T06:13:00.474769"
     },
     {
         "state": "L",
         "county": "UNION",
         "customersServed": 3469,
         "customersAffected": 4,
-        "lastUpdatedTime": "2022-08-30T04:50:32",
+        "lastUpdatedTime": "2022-08-30T06:12:32",
         "latitude": 32.76151639344262,
         "longitude": -92.28840163934426,
-        "_loaded_at": "2022-08-30T04:51:04.009474"
+        "_loaded_at": "2022-08-30T06:13:00.474775"
     }
 ]
