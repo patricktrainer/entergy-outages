@@ -1,62 +1,42 @@
 [
     {
         "state": "L",
-        "county": "ASSUMPTION",
-        "customersServed": 10390,
-        "customersAffected": 7,
-        "lastUpdatedTime": "2022-08-30T10:22:31",
-        "latitude": 29.852919254658385,
-        "longitude": -91.12534161490683,
-        "_loaded_at": "2022-08-30T10:22:42.773409"
-    },
-    {
-        "state": "L",
         "county": "E. BATON ROUGE",
         "customersServed": 181845,
-        "customersAffected": 19,
-        "lastUpdatedTime": "2022-08-30T10:22:31",
+        "customersAffected": 18,
+        "lastUpdatedTime": "2022-08-30T10:42:32",
         "latitude": 30.503923357664235,
         "longitude": -90.9984306569343,
-        "_loaded_at": "2022-08-30T10:22:42.773418"
+        "_loaded_at": "2022-08-30T10:43:40.461884"
     },
     {
         "state": "L",
         "county": "ORLEANS",
         "customersServed": 194148,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-08-30T10:22:31",
+        "lastUpdatedTime": "2022-08-30T10:42:32",
         "latitude": 30.0334496124031,
         "longitude": -89.86143410852713,
-        "_loaded_at": "2022-08-30T10:22:42.773423"
-    },
-    {
-        "state": "L",
-        "county": "RICHLAND",
-        "customersServed": 8923,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-08-30T10:22:31",
-        "latitude": 32.37761255115962,
-        "longitude": -91.76414733969986,
-        "_loaded_at": "2022-08-30T10:22:42.773428"
+        "_loaded_at": "2022-08-30T10:43:40.461901"
     },
     {
         "state": "L",
         "county": "TERREBONNE",
         "customersServed": 26580,
         "customersAffected": 10,
-        "lastUpdatedTime": "2022-08-30T10:22:31",
+        "lastUpdatedTime": "2022-08-30T10:42:32",
         "latitude": 29.472579505300352,
         "longitude": -90.93692579505301,
-        "_loaded_at": "2022-08-30T10:22:42.773432"
+        "_loaded_at": "2022-08-30T10:43:40.461910"
     },
     {
         "state": "L",
         "county": "WEBSTER",
         "customersServed": 11507,
         "customersAffected": 14,
-        "lastUpdatedTime": "2022-08-30T10:22:31",
+        "lastUpdatedTime": "2022-08-30T10:42:32",
         "latitude": 32.75104651162791,
         "longitude": -93.3486046511628,
-        "_loaded_at": "2022-08-30T10:22:42.773437"
+        "_loaded_at": "2022-08-30T10:43:40.461919"
     }
 ]
