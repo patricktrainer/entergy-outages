@@ -1,172 +1,162 @@
 [
     {
-        "zip": "70056",
+        "zip": "70058",
         "state": "L",
-        "customersServed": 17324,
+        "customersServed": 17806,
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 29.87429,
+        "longitude": -90.06389,
+        "_loaded_at": "2022-09-24T02:26:25.248154"
+    },
+    {
+        "zip": "70062",
+        "state": "L",
+        "customersServed": 9165,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 29.90141,
-        "longitude": -90.03282,
-        "_loaded_at": "2022-09-23T23:48:21.015540"
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 29.99237,
+        "longitude": -90.24308,
+        "_loaded_at": "2022-09-24T02:26:25.248160"
+    },
+    {
+        "zip": "70065",
+        "state": "L",
+        "customersServed": 21427,
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 30.02063,
+        "longitude": -90.25046,
+        "_loaded_at": "2022-09-24T02:26:25.248165"
+    },
+    {
+        "zip": "70085",
+        "state": "L",
+        "customersServed": 2852,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 29.87148,
+        "longitude": -89.83376,
+        "_loaded_at": "2022-09-24T02:26:25.248169"
     },
     {
         "zip": "70094",
         "state": "L",
         "customersServed": 13911,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
+        "lastUpdatedTime": "2022-09-24T02:24:32",
         "latitude": 29.92925,
         "longitude": -90.17907,
-        "_loaded_at": "2022-09-23T23:48:21.015547"
+        "_loaded_at": "2022-09-24T02:26:25.248174"
     },
     {
         "zip": "70115",
         "state": "L",
         "customersServed": 20248,
         "customersAffected": 23,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
+        "lastUpdatedTime": "2022-09-24T02:24:32",
         "latitude": 29.92749,
         "longitude": -90.09866,
-        "_loaded_at": "2022-09-23T23:48:21.015552"
+        "_loaded_at": "2022-09-24T02:26:25.248178"
     },
     {
-        "zip": "70127",
+        "zip": "70126",
         "state": "L",
-        "customersServed": 10682,
-        "customersAffected": 63,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 30.03172,
-        "longitude": -89.9806,
-        "_loaded_at": "2022-09-23T23:48:21.015557"
-    },
-    {
-        "zip": "70360",
-        "state": "L",
-        "customersServed": 3403,
+        "customersServed": 13072,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 29.5971,
-        "longitude": -90.74454,
-        "_loaded_at": "2022-09-23T23:48:21.015561"
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 30.01438,
+        "longitude": -90.02125,
+        "_loaded_at": "2022-09-24T02:26:25.248183"
     },
     {
         "zip": "70421",
         "state": "L",
         "customersServed": 222,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
+        "lastUpdatedTime": "2022-09-24T02:24:32",
         "latitude": 30.44117,
         "longitude": -90.44018,
-        "_loaded_at": "2022-09-23T23:48:21.015566"
+        "_loaded_at": "2022-09-24T02:26:25.248187"
     },
     {
-        "zip": "70427",
+        "zip": "70422",
         "state": "L",
-        "customersServed": 7355,
-        "customersAffected": 9,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 30.76404,
-        "longitude": -89.88218,
-        "_loaded_at": "2022-09-23T23:48:21.015570"
+        "customersServed": 5542,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 30.73347,
+        "longitude": -90.50424,
+        "_loaded_at": "2022-09-24T02:26:25.248192"
     },
     {
         "zip": "70454",
         "state": "L",
         "customersServed": 16147,
-        "customersAffected": 14,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
+        "customersAffected": 13,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
         "latitude": 30.44136,
         "longitude": -90.42073,
-        "_loaded_at": "2022-09-23T23:48:21.015575"
-    },
-    {
-        "zip": "70661",
-        "state": "L",
-        "customersServed": 934,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 30.33737,
-        "longitude": -93.66984,
-        "_loaded_at": "2022-09-23T23:48:21.015579"
-    },
-    {
-        "zip": "70663",
-        "state": "L",
-        "customersServed": 11849,
-        "customersAffected": 2,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 30.23981,
-        "longitude": -93.36406,
-        "_loaded_at": "2022-09-23T23:48:21.015584"
-    },
-    {
-        "zip": "70805",
-        "state": "L",
-        "customersServed": 10521,
-        "customersAffected": 6,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 30.49101,
-        "longitude": -91.14945,
-        "_loaded_at": "2022-09-23T23:48:21.015588"
+        "_loaded_at": "2022-09-24T02:26:25.248196"
     },
     {
         "zip": "70808",
         "state": "L",
         "customersServed": 17955,
-        "customersAffected": 3,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
         "latitude": 30.40982,
         "longitude": -91.14754,
-        "_loaded_at": "2022-09-23T23:48:21.015593"
+        "_loaded_at": "2022-09-24T02:26:25.248200"
+    },
+    {
+        "zip": "70816",
+        "state": "L",
+        "customersServed": 16446,
+        "customersAffected": 3,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 30.42356,
+        "longitude": -91.03448,
+        "_loaded_at": "2022-09-24T02:26:25.248205"
     },
     {
         "zip": "71001",
         "state": "L",
         "customersServed": 2282,
         "customersAffected": 43,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
+        "lastUpdatedTime": "2022-09-24T02:24:32",
         "latitude": 32.55611,
         "longitude": -92.91578,
-        "_loaded_at": "2022-09-23T23:48:21.015597"
+        "_loaded_at": "2022-09-24T02:26:25.248209"
     },
     {
         "zip": "71003",
         "state": "L",
         "customersServed": 611,
         "customersAffected": 36,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
+        "lastUpdatedTime": "2022-09-24T02:24:32",
         "latitude": 32.64909,
         "longitude": -93.02157,
-        "_loaded_at": "2022-09-23T23:48:21.015602"
+        "_loaded_at": "2022-09-24T02:26:25.248214"
     },
     {
-        "zip": "71203",
+        "zip": "71016",
         "state": "L",
-        "customersServed": 18601,
-        "customersAffected": 10,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 32.5353,
-        "longitude": -92.04635,
-        "_loaded_at": "2022-09-23T23:48:21.015606"
-    },
-    {
-        "zip": "71225",
-        "state": "L",
-        "customersServed": 4088,
+        "customersServed": 1173,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 32.51103,
-        "longitude": -92.35059,
-        "_loaded_at": "2022-09-23T23:48:21.015611"
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 32.22181,
+        "longitude": -93.15159,
+        "_loaded_at": "2022-09-24T02:26:25.248218"
     },
     {
-        "zip": "71291",
+        "zip": "71342",
         "state": "L",
-        "customersServed": 18256,
-        "customersAffected": 4,
-        "lastUpdatedTime": "2022-09-23T23:46:32",
-        "latitude": 32.52286,
-        "longitude": -92.17265,
-        "_loaded_at": "2022-09-23T23:48:21.015615"
+        "customersServed": 2665,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-09-24T02:24:32",
+        "latitude": 31.67329,
+        "longitude": -92.12486,
+        "_loaded_at": "2022-09-24T02:26:25.248223"
     }
 ]
