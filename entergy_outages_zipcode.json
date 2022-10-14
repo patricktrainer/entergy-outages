@@ -1,52 +1,42 @@
 [
     {
-        "zip": "70001",
-        "state": "L",
-        "customersServed": 20774,
-        "customersAffected": 50,
-        "lastUpdatedTime": "2022-10-14T08:00:32",
-        "latitude": 29.98965,
-        "longitude": -90.1698,
-        "_loaded_at": "2022-10-14T08:00:42.877693"
-    },
-    {
         "zip": "70065",
         "state": "L",
         "customersServed": 21530,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-10-14T08:00:32",
+        "lastUpdatedTime": "2022-10-14T08:46:32",
         "latitude": 30.02063,
         "longitude": -90.25046,
-        "_loaded_at": "2022-10-14T08:00:42.877700"
+        "_loaded_at": "2022-10-14T08:48:03.076295"
     },
     {
-        "zip": "70661",
+        "zip": "70346",
         "state": "L",
-        "customersServed": 936,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-10-14T08:00:32",
-        "latitude": 30.33737,
-        "longitude": -93.66984,
-        "_loaded_at": "2022-10-14T08:00:42.877705"
+        "customersServed": 5030,
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-10-14T08:46:32",
+        "latitude": 30.10494,
+        "longitude": -91.00106,
+        "_loaded_at": "2022-10-14T08:48:03.076303"
     },
     {
-        "zip": "70733",
+        "zip": "70555",
         "state": "L",
-        "customersServed": 730,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-10-14T08:00:32",
-        "latitude": 30.31146,
-        "longitude": -90.80031,
-        "_loaded_at": "2022-10-14T08:00:42.877709"
+        "customersServed": 3293,
+        "customersAffected": 2,
+        "lastUpdatedTime": "2022-10-14T08:46:32",
+        "latitude": 30.07938,
+        "longitude": -92.13611,
+        "_loaded_at": "2022-10-14T08:48:03.076308"
     },
     {
-        "zip": "70808",
+        "zip": "70820",
         "state": "L",
-        "customersServed": 17885,
+        "customersServed": 11264,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-10-14T08:00:32",
-        "latitude": 30.40982,
-        "longitude": -91.14754,
-        "_loaded_at": "2022-10-14T08:00:42.877714"
+        "lastUpdatedTime": "2022-10-14T08:46:32",
+        "latitude": 30.37751,
+        "longitude": -91.16381,
+        "_loaded_at": "2022-10-14T08:48:03.076313"
     }
 ]
