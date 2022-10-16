@@ -4,49 +4,39 @@
         "state": "L",
         "customersServed": 9195,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-10-16T07:24:32",
+        "lastUpdatedTime": "2022-10-16T07:44:32",
         "latitude": 29.99237,
         "longitude": -90.24308,
-        "_loaded_at": "2022-10-16T07:25:38.119272"
+        "_loaded_at": "2022-10-16T07:46:01.320543"
     },
     {
         "zip": "70065",
         "state": "L",
         "customersServed": 21571,
         "customersAffected": 2,
-        "lastUpdatedTime": "2022-10-16T07:24:32",
+        "lastUpdatedTime": "2022-10-16T07:44:32",
         "latitude": 30.02063,
         "longitude": -90.25046,
-        "_loaded_at": "2022-10-16T07:25:38.119279"
+        "_loaded_at": "2022-10-16T07:46:01.320551"
+    },
+    {
+        "zip": "70648",
+        "state": "L",
+        "customersServed": 372,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-10-16T07:44:32",
+        "latitude": 30.48224,
+        "longitude": -92.87182,
+        "_loaded_at": "2022-10-16T07:46:01.320556"
     },
     {
         "zip": "71075",
         "state": "L",
         "customersServed": 3141,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-10-16T07:24:32",
+        "lastUpdatedTime": "2022-10-16T07:44:32",
         "latitude": 33.00288,
         "longitude": -93.46037,
-        "_loaded_at": "2022-10-16T07:25:38.119283"
-    },
-    {
-        "zip": "71295",
-        "state": "L",
-        "customersServed": 4521,
-        "customersAffected": 79,
-        "lastUpdatedTime": "2022-10-16T07:24:32",
-        "latitude": 32.1615,
-        "longitude": -91.70429,
-        "_loaded_at": "2022-10-16T07:25:38.119287"
-    },
-    {
-        "zip": "OTHER",
-        "state": "L",
-        "customersServed": 1,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2022-10-16T07:24:32",
-        "latitude": null,
-        "longitude": null,
-        "_loaded_at": "2022-10-16T07:25:38.119291"
+        "_loaded_at": "2022-10-16T07:46:01.320561"
     }
 ]
