@@ -34,8 +34,8 @@ def to_file(filename: str, data: List) -> None:
 
 if __name__ == "__main__":
     entergy_data = {
-        "county": "https://entergy.datacapable.com/datacapable/v1/entergy/EntergyNOLA/county",
-        "zipcode": "https://entergy.datacapable.com/datacapable/v1/entergy/EntergyNOLA/zip",
+        "county": "https://entergy.datacapable.com/datacapable/v1/entergy/EntergyLouisiana/county",
+        "zipcode": "https://entergy.datacapable.com/datacapable/v1/entergy/EntergyLouisiana/zip",
     }
 
     for key, value in entergy_data.items():
