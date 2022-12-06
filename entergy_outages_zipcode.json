@@ -4,29 +4,59 @@
         "state": "L",
         "customersServed": 11226,
         "customersAffected": 4,
-        "lastUpdatedTime": "2022-12-06T03:04:32",
+        "lastUpdatedTime": "2022-12-06T03:22:32",
         "latitude": 30.00777,
         "longitude": -90.16195,
-        "_loaded_at": "2022-12-06T03:05:40.813779"
+        "_loaded_at": "2022-12-06T03:23:04.155734"
+    },
+    {
+        "zip": "70068",
+        "state": "L",
+        "customersServed": 14024,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-12-06T03:22:32",
+        "latitude": 30.06929,
+        "longitude": -90.4891,
+        "_loaded_at": "2022-12-06T03:23:04.155741"
+    },
+    {
+        "zip": "70121",
+        "state": "L",
+        "customersServed": 7113,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-12-06T03:22:32",
+        "latitude": 29.9632,
+        "longitude": -90.15875,
+        "_loaded_at": "2022-12-06T03:23:04.155746"
+    },
+    {
+        "zip": "70131",
+        "state": "L",
+        "customersServed": 11769,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2022-12-06T03:22:32",
+        "latitude": 29.91693,
+        "longitude": -89.98767,
+        "_loaded_at": "2022-12-06T03:23:04.155751"
     },
     {
         "zip": "70802",
         "state": "L",
         "customersServed": 12035,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-12-06T03:04:32",
+        "lastUpdatedTime": "2022-12-06T03:22:32",
         "latitude": 30.44612,
         "longitude": -91.1716,
-        "_loaded_at": "2022-12-06T03:05:40.813787"
+        "_loaded_at": "2022-12-06T03:23:04.155756"
     },
     {
         "zip": "OTHER",
         "state": "L",
         "customersServed": 1,
         "customersAffected": 1,
-        "lastUpdatedTime": "2022-12-06T03:04:32",
+        "lastUpdatedTime": "2022-12-06T03:22:32",
         "latitude": null,
         "longitude": null,
-        "_loaded_at": "2022-12-06T03:05:40.813792"
+        "_loaded_at": "2022-12-06T03:23:04.155760"
     }
 ]
