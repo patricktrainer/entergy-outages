@@ -15,3 +15,20 @@ def today() -> str:
     """
     return datetime.utcnow().isoformat(timespec="auto")
 
+
+def iterate_file_versions(repo_path, filepath, ref="main"):
+    """
+    Iterate through the versions of a file in a git repo
+    """
+    repo = git.Repo(repo_path, odbt=git.GitCmdObjectDB)
+    commits = reversed(list(repo.iter_commits(ref, paths=filepath)))
+    
+    for commit in commits:
+        commit_tree = commit.tree
+        blobs = commit_tree.blobs
+
+        try:
+            blob = [b for b in blobs if b.name == Path(filepath).name][0] 
+            yield commit.committed_datetime, commit.hexsha, blob.data_stream.read()
+        except git.GitCommandError:
+            pass
