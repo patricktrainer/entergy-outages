@@ -1,42 +1,52 @@
 [
     {
-        "zip": "70001",
-        "state": "L",
-        "customersServed": 20786,
-        "customersAffected": 13,
-        "lastUpdatedTime": "2023-01-21T08:22:32",
-        "latitude": 29.98965,
-        "longitude": -90.1698,
-        "_loaded_at": "2023-01-21T08:23:48.095666"
-    },
-    {
         "zip": "70125",
         "state": "L",
         "customersServed": 8460,
         "customersAffected": 1,
-        "lastUpdatedTime": "2023-01-21T08:22:32",
+        "lastUpdatedTime": "2023-01-21T08:34:32",
         "latitude": 29.95059,
         "longitude": -90.10177,
-        "_loaded_at": "2023-01-21T08:23:48.095673"
+        "_loaded_at": "2023-01-21T08:34:48.506334"
     },
     {
         "zip": "70769",
         "state": "L",
         "customersServed": 13105,
         "customersAffected": 16,
-        "lastUpdatedTime": "2023-01-21T08:22:32",
+        "lastUpdatedTime": "2023-01-21T08:34:32",
         "latitude": 30.31139,
         "longitude": -90.94418,
-        "_loaded_at": "2023-01-21T08:23:48.095678"
+        "_loaded_at": "2023-01-21T08:34:48.506342"
+    },
+    {
+        "zip": "70809",
+        "state": "L",
+        "customersServed": 15399,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2023-01-21T08:34:32",
+        "latitude": 30.39812,
+        "longitude": -91.07447,
+        "_loaded_at": "2023-01-21T08:34:48.506348"
     },
     {
         "zip": "70810",
         "state": "L",
         "customersServed": 20908,
         "customersAffected": 1,
-        "lastUpdatedTime": "2023-01-21T08:22:32",
+        "lastUpdatedTime": "2023-01-21T08:34:32",
         "latitude": 30.36238,
         "longitude": -91.08926,
-        "_loaded_at": "2023-01-21T08:23:48.095682"
+        "_loaded_at": "2023-01-21T08:34:48.506352"
+    },
+    {
+        "zip": "70819",
+        "state": "L",
+        "customersServed": 1765,
+        "customersAffected": 17,
+        "lastUpdatedTime": "2023-01-21T08:34:32",
+        "latitude": 30.46623,
+        "longitude": -91.01298,
+        "_loaded_at": "2023-01-21T08:34:48.506357"
     }
 ]
