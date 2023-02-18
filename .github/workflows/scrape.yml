@@ -9,6 +9,7 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    timeout-minutes: 2
     
     steps:
     - name: Check out this repo
