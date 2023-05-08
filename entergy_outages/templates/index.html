@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commits</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Commits</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <!-- Add more columns for other fields -->
+            </tr>
+        </thead>
+        <tbody id="commit-table-body">
+        </tbody>
+    </table>
+
+    <script>
+        $(document).ready(function() {
+            $.getJSON('/api/outages', function(data) {
+                let tableBody = $('#commit-table-body');
+                for (let commit of data) {
+                    tableBody.append(`<tr>
+                        <td>${commit.id}</td>
+                        <!-- Add more cells for other fields -->
+                    </tr>`);
+                }
+            });
+        });
+    </script>
+</body>
+</html>
