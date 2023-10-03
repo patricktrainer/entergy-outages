@@ -1,12 +1,22 @@
 [
     {
+        "zip": "70005",
+        "state": "L",
+        "customersServed": 13484,
+        "customersAffected": 27,
+        "lastUpdatedTime": "2023-10-03T10:22:32",
+        "latitude": 29.9994,
+        "longitude": -90.12939,
+        "_loaded_at": "2023-10-03T10:22:39.022369"
+    },
+    {
         "zip": "70817",
         "state": "L",
         "customersServed": 11782,
         "customersAffected": 2,
-        "lastUpdatedTime": "2023-10-03T10:04:32",
+        "lastUpdatedTime": "2023-10-03T10:22:32",
         "latitude": 30.38227,
         "longitude": -91.00252,
-        "_loaded_at": "2023-10-03T10:05:14.939791"
+        "_loaded_at": "2023-10-03T10:22:39.022376"
     }
 ]
