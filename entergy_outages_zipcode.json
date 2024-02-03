@@ -4,39 +4,49 @@
         "state": "L",
         "customersServed": 10622,
         "customersAffected": 7,
-        "lastUpdatedTime": "2024-02-03T08:04:31",
+        "lastUpdatedTime": "2024-02-03T08:20:31",
         "latitude": 30.03172,
         "longitude": -89.9806,
-        "_loaded_at": "2024-02-03T08:05:22.539743"
+        "_loaded_at": "2024-02-03T08:22:09.161064"
     },
     {
         "zip": "70129",
         "state": "L",
         "customersServed": 4421,
         "customersAffected": 2,
-        "lastUpdatedTime": "2024-02-03T08:04:31",
+        "lastUpdatedTime": "2024-02-03T08:20:31",
         "latitude": 30.04602,
         "longitude": -89.89063,
-        "_loaded_at": "2024-02-03T08:05:22.539749"
+        "_loaded_at": "2024-02-03T08:22:09.161070"
     },
     {
-        "zip": "70403",
+        "zip": "70661",
         "state": "L",
-        "customersServed": 15289,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2024-02-03T08:04:31",
-        "latitude": 30.48397,
-        "longitude": -90.47833,
-        "_loaded_at": "2024-02-03T08:05:22.539753"
+        "customersServed": 945,
+        "customersAffected": 99,
+        "lastUpdatedTime": "2024-02-03T08:20:31",
+        "latitude": 30.33737,
+        "longitude": -93.66984,
+        "_loaded_at": "2024-02-03T08:22:09.161074"
     },
     {
         "zip": "70806",
         "state": "L",
         "customersServed": 15168,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2024-02-03T08:04:31",
+        "customersAffected": 2,
+        "lastUpdatedTime": "2024-02-03T08:20:31",
         "latitude": 30.44784,
         "longitude": -91.12812,
-        "_loaded_at": "2024-02-03T08:05:22.539756"
+        "_loaded_at": "2024-02-03T08:22:09.161077"
+    },
+    {
+        "zip": "OTHER",
+        "state": "L",
+        "customersServed": 1,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2024-02-03T08:20:31",
+        "latitude": null,
+        "longitude": null,
+        "_loaded_at": "2024-02-03T08:22:09.161080"
     }
 ]
