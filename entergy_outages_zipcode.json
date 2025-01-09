@@ -1,92 +1,102 @@
 [
     {
-        "zip": "70072",
-        "state": "L",
-        "customersServed": 23941,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
-        "latitude": 29.87145,
-        "longitude": -90.10998,
-        "_loaded_at": "2025-01-09T07:34:25.871779"
-    },
-    {
         "zip": "70118",
         "state": "L",
         "customersServed": 16741,
         "customersAffected": 1,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": 29.94923,
         "longitude": -90.12312,
-        "_loaded_at": "2025-01-09T07:34:25.871784"
+        "_loaded_at": "2025-01-09T07:48:47.391205"
     },
     {
         "zip": "70129",
         "state": "L",
         "customersServed": 4415,
         "customersAffected": 1,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": 30.04602,
         "longitude": -89.89063,
-        "_loaded_at": "2025-01-09T07:34:25.871787"
+        "_loaded_at": "2025-01-09T07:48:47.391211"
     },
     {
         "zip": "70130",
         "state": "L",
         "customersServed": 10273,
         "customersAffected": 62,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": 29.94423,
         "longitude": -90.07154,
-        "_loaded_at": "2025-01-09T07:34:25.871789"
+        "_loaded_at": "2025-01-09T07:48:47.391215"
+    },
+    {
+        "zip": "70444",
+        "state": "L",
+        "customersServed": 3055,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2025-01-09T07:48:27",
+        "latitude": 30.92522,
+        "longitude": -90.47398,
+        "_loaded_at": "2025-01-09T07:48:47.391218"
     },
     {
         "zip": "70454",
         "state": "L",
         "customersServed": 17675,
         "customersAffected": 1,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": 30.44136,
         "longitude": -90.42073,
-        "_loaded_at": "2025-01-09T07:34:25.871792"
+        "_loaded_at": "2025-01-09T07:48:47.391222"
     },
     {
         "zip": "70605",
         "state": "L",
         "customersServed": 19870,
         "customersAffected": 1,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": 30.16871,
         "longitude": -93.24532,
-        "_loaded_at": "2025-01-09T07:34:25.871795"
+        "_loaded_at": "2025-01-09T07:48:47.391226"
     },
     {
         "zip": "70607",
         "state": "L",
         "customersServed": 13257,
         "customersAffected": 2,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": 30.1368,
         "longitude": -93.19844,
-        "_loaded_at": "2025-01-09T07:34:25.871798"
+        "_loaded_at": "2025-01-09T07:48:47.391230"
+    },
+    {
+        "zip": "70807",
+        "state": "L",
+        "customersServed": 6478,
+        "customersAffected": 5,
+        "lastUpdatedTime": "2025-01-09T07:48:27",
+        "latitude": 30.53502,
+        "longitude": -91.17433,
+        "_loaded_at": "2025-01-09T07:48:47.391233"
     },
     {
         "zip": "70808",
         "state": "L",
         "customersServed": 18134,
         "customersAffected": 1,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": 30.40982,
         "longitude": -91.14754,
-        "_loaded_at": "2025-01-09T07:34:25.871800"
+        "_loaded_at": "2025-01-09T07:48:47.391236"
     },
     {
         "zip": "OTHER",
         "state": "L",
         "customersServed": 2,
         "customersAffected": 2,
-        "lastUpdatedTime": "2025-01-09T07:32:27",
+        "lastUpdatedTime": "2025-01-09T07:48:27",
         "latitude": null,
         "longitude": null,
-        "_loaded_at": "2025-01-09T07:34:25.871803"
+        "_loaded_at": "2025-01-09T07:48:47.391240"
     }
 ]
