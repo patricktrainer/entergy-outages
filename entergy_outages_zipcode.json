@@ -1,32 +1,62 @@
 [
     {
+        "zip": "70005",
+        "state": "L",
+        "customersServed": 13898,
+        "customersAffected": 5,
+        "lastUpdatedTime": "2025-04-16T07:47:27",
+        "latitude": 29.9994,
+        "longitude": -90.12939,
+        "_loaded_at": "2025-04-16T07:48:35.588950"
+    },
+    {
         "zip": "70080",
         "state": "L",
         "customersServed": 663,
         "customersAffected": 2,
-        "lastUpdatedTime": "2025-04-16T07:33:27",
+        "lastUpdatedTime": "2025-04-16T07:47:27",
         "latitude": 29.87561,
         "longitude": -90.4352,
-        "_loaded_at": "2025-04-16T07:34:54.020223"
+        "_loaded_at": "2025-04-16T07:48:35.588957"
+    },
+    {
+        "zip": "70446",
+        "state": "L",
+        "customersServed": 3287,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2025-04-16T07:47:27",
+        "latitude": 30.62108,
+        "longitude": -90.37144,
+        "_loaded_at": "2025-04-16T07:48:35.588963"
     },
     {
         "zip": "70807",
         "state": "L",
         "customersServed": 6455,
         "customersAffected": 1,
-        "lastUpdatedTime": "2025-04-16T07:33:27",
+        "lastUpdatedTime": "2025-04-16T07:47:27",
         "latitude": 30.53502,
         "longitude": -91.17433,
-        "_loaded_at": "2025-04-16T07:34:54.020228"
+        "_loaded_at": "2025-04-16T07:48:35.588969"
     },
     {
         "zip": "70815",
         "state": "L",
         "customersServed": 12651,
         "customersAffected": 1,
-        "lastUpdatedTime": "2025-04-16T07:33:27",
+        "lastUpdatedTime": "2025-04-16T07:47:27",
         "latitude": 30.45703,
         "longitude": -91.06799,
-        "_loaded_at": "2025-04-16T07:34:54.020231"
+        "_loaded_at": "2025-04-16T07:48:35.588974"
+    },
+    {
+        "zip": "OTHER",
+        "state": "L",
+        "customersServed": 11,
+        "customersAffected": 11,
+        "lastUpdatedTime": "2025-04-16T07:47:27",
+        "latitude": null,
+        "longitude": null,
+        "_loaded_at": "2025-04-16T07:48:35.588980"
     }
 ]
