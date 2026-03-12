@@ -83,7 +83,7 @@ if __name__ == "__main__":
             data = get(url)
             data = validate(data, required_fields[key], key)
             enriched = enrich(data)
-            to_file(f"test_entergy_outages_{key}", enriched)
+            to_file(f"entergy_outages_{key}", enriched)
             print(f"  Wrote {key}: {len(data)} records")
             success += 1
         except Exception as e:
