@@ -4,39 +4,59 @@
         "state": "L",
         "customersServed": 560,
         "customersAffected": 16,
-        "lastUpdatedTime": "2026-10-15T10:49:27",
+        "lastUpdatedTime": "2026-10-15T11:13:27",
         "latitude": 29.28286,
         "longitude": -89.36234,
-        "_loaded_at": "2026-10-15T10:51:00.375782"
+        "_loaded_at": "2026-10-15T11:13:46.840081"
+    },
+    {
+        "zip": "70121",
+        "state": "L",
+        "customersServed": 7017,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2026-10-15T11:13:27",
+        "latitude": 29.9632,
+        "longitude": -90.15875,
+        "_loaded_at": "2026-10-15T11:13:46.840084"
     },
     {
         "zip": "70131",
         "state": "L",
         "customersServed": 11553,
         "customersAffected": 1,
-        "lastUpdatedTime": "2026-10-15T10:49:27",
+        "lastUpdatedTime": "2026-10-15T11:13:27",
         "latitude": 29.91693,
         "longitude": -89.98767,
-        "_loaded_at": "2026-10-15T10:51:00.375788"
+        "_loaded_at": "2026-10-15T11:13:46.840085"
+    },
+    {
+        "zip": "70769",
+        "state": "L",
+        "customersServed": 13720,
+        "customersAffected": 1,
+        "lastUpdatedTime": "2026-10-15T11:13:27",
+        "latitude": 30.31139,
+        "longitude": -90.94418,
+        "_loaded_at": "2026-10-15T11:13:46.840087"
     },
     {
         "zip": "70820",
         "state": "L",
         "customersServed": 12402,
         "customersAffected": 8,
-        "lastUpdatedTime": "2026-10-15T10:49:27",
+        "lastUpdatedTime": "2026-10-15T11:13:27",
         "latitude": 30.37751,
         "longitude": -91.16381,
-        "_loaded_at": "2026-10-15T10:51:00.375791"
+        "_loaded_at": "2026-10-15T11:13:46.840089"
     },
     {
         "zip": "OTHER",
         "state": "L",
         "customersServed": 4,
         "customersAffected": 4,
-        "lastUpdatedTime": "2026-10-15T10:49:27",
+        "lastUpdatedTime": "2026-10-15T11:13:27",
         "latitude": null,
         "longitude": null,
-        "_loaded_at": "2026-10-15T10:51:00.375794"
+        "_loaded_at": "2026-10-15T11:13:46.840090"
     }
 ]
