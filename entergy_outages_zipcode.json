@@ -1,62 +1,32 @@
 [
     {
-        "zip": "70006",
-        "state": "L",
-        "customersServed": 8329,
-        "customersAffected": 5,
-        "lastUpdatedTime": "2026-10-26T01:14:27",
-        "latitude": 30.01338,
-        "longitude": -90.18868,
-        "_loaded_at": "2026-10-26T01:15:42.775406"
-    },
-    {
-        "zip": "70037",
-        "state": "L",
-        "customersServed": 7786,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2026-10-26T01:14:27",
-        "latitude": 29.82797,
-        "longitude": -90.00612,
-        "_loaded_at": "2026-10-26T01:15:42.775409"
-    },
-    {
         "zip": "70065",
         "state": "L",
         "customersServed": 22329,
         "customersAffected": 52,
-        "lastUpdatedTime": "2026-10-26T01:14:27",
+        "lastUpdatedTime": "2026-10-26T01:52:27",
         "latitude": 30.02063,
         "longitude": -90.25046,
-        "_loaded_at": "2026-10-26T01:15:42.775411"
-    },
-    {
-        "zip": "70126",
-        "state": "L",
-        "customersServed": 12848,
-        "customersAffected": 1,
-        "lastUpdatedTime": "2026-10-26T01:14:27",
-        "latitude": 30.01438,
-        "longitude": -90.02125,
-        "_loaded_at": "2026-10-26T01:15:42.775413"
+        "_loaded_at": "2026-10-26T01:53:17.928990"
     },
     {
         "zip": "70454",
         "state": "L",
         "customersServed": 18365,
         "customersAffected": 11,
-        "lastUpdatedTime": "2026-10-26T01:14:27",
+        "lastUpdatedTime": "2026-10-26T01:52:27",
         "latitude": 30.44136,
         "longitude": -90.42073,
-        "_loaded_at": "2026-10-26T01:15:42.775416"
+        "_loaded_at": "2026-10-26T01:53:17.928993"
     },
     {
         "zip": "70810",
         "state": "L",
         "customersServed": 22416,
         "customersAffected": 20,
-        "lastUpdatedTime": "2026-10-26T01:14:27",
+        "lastUpdatedTime": "2026-10-26T01:52:27",
         "latitude": 30.36238,
         "longitude": -91.08926,
-        "_loaded_at": "2026-10-26T01:15:42.775418"
+        "_loaded_at": "2026-10-26T01:53:17.928995"
     }
 ]
